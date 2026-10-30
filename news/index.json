@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T15:39:35.446320+05:30",
+  "generated_at": "2026-10-30T15:46:33.599024+05:30",
   "latest_date": "2026-10-30",
   "total_articles": 200,
   "articles": [
@@ -9,6 +9,7 @@
       "source": "Google News — OpenAI",
       "published": "2026-10-30 15:38 IST",
       "summary": "Alphabet Erases $500 Billion in Its Biggest Market Plunge Bloomberg.com",
+      "image": "",
       "date": "2026-10-30"
     },
     {
@@ -17,6 +18,7 @@
       "source": "Google News — Artificial Intelligence",
       "published": "2026-10-30 15:30 IST",
       "summary": "How FDA generative AI device oversight may impact providers Modern Healthcare News",
+      "image": "",
       "date": "2026-10-30"
     },
     {
@@ -25,6 +27,16 @@
       "source": "Google News — Artificial Intelligence",
       "published": "2026-10-30 15:30 IST",
       "summary": "Could AI ever build itself? Scientists map the road to the 'last AI built by humans.' Live Science",
+      "image": "",
+      "date": "2026-10-30"
+    },
+    {
+      "title": "Get ChatGPT, DeepSeek, and Gemini in one place for just $79 with no monthly fees - Popular Science",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNOVhfOU00bFVlclVYVXRRQWxGVXNmVS1kcnhPVm12aUhHZ1BzaUpFbWs2Z0U3Z0s5d0Y0UFlZTmZMTTZiaTJXUmt6ZFhwbHE2b3pDcHlOLWZfS2Y5Sm0yeDlHaWNfUzA2Ykx4U2ZZWHJqRkV0UnB4QTZqZ2RpVFIxa0dfdG42NTBsUXA1WFEyNzAya0xzbXA2V2lLVElzRTBEeTBzVE1RWDBMV29WUWpHRmJKWGFaUy12MC1aMTNVSS1mdFRFQlBpTHBzcw?oc=5",
+      "source": "Google News — OpenAI",
+      "published": "2026-10-30 15:30 IST",
+      "summary": "Get ChatGPT, DeepSeek, and Gemini in one place for just $79 with no monthly fees Popular Science",
+      "image": "",
       "date": "2026-10-30"
     },
     {
@@ -33,6 +45,7 @@
       "source": "Google News — Google DeepMind",
       "published": "2026-10-30 15:26 IST",
       "summary": "Google Connected Apps: 50+ Integrations Ranked [2026] shattered.io",
+      "image": "",
       "date": "2026-10-30"
     },
     {
@@ -41,6 +54,7 @@
       "source": "Google News — Machine Learning",
       "published": "2026-10-30 15:00 IST",
       "summary": "AI Helps Spectrometers Learn for Themselves to Overcome Limitations Technology Networks",
+      "image": "",
       "date": "2026-10-30"
     },
     {
@@ -49,14 +63,7 @@
       "source": "Google News — Anthropic",
       "published": "2026-10-30 14:55 IST",
       "summary": "Anthropic Claude AI Predicts an Unbelievable XRP Q4 Move Cryptonews",
-      "date": "2026-10-30"
-    },
-    {
-      "title": "Half of Christian questions on ChatGPT are attempts to understand the Bible - www.christiantoday.com",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNXzlqR3NkMHpubDR5aEYwRDRSZ3JWcnh2TUpkWDlzMVhldmlEX0REbndJbVdSUmlwVU14MVdrSjJZZF9MOXZIRWY1Nm5Ha2xxUzJfQWhlOXNWQjZnMXdEMkJpMl8tYmF5eFBmX0NZQ216OUpGR0ktYUloVmNhdnQtTlJFdXg3ekkzeXFwdGp3clBWazRwaktMV1R6aTk3VUQtazdGazJqY2x5S0Rp?oc=5",
-      "source": "Google News — OpenAI",
-      "published": "2026-10-30 14:44 IST",
-      "summary": "Half of Christian questions on ChatGPT are attempts to understand the Bible www.christiantoday.com",
+      "image": "",
       "date": "2026-10-30"
     },
     {
@@ -65,6 +72,7 @@
       "source": "Google News — Artificial Intelligence",
       "published": "2026-10-30 14:41 IST",
       "summary": "COMMENTARY: AI’s rewiring of US warfare may be only the beginning Reuters",
+      "image": "",
       "date": "2026-10-30"
     },
     {
@@ -73,6 +81,7 @@
       "source": "Google News — Artificial Intelligence",
       "published": "2026-10-30 14:30 IST",
       "summary": "Artificial Intelligence is a Horror Story Literary Hub",
+      "image": "",
       "date": "2026-10-30"
     },
     {
@@ -81,6 +90,7 @@
       "source": "Google News — OpenAI",
       "published": "2026-10-30 14:30 IST",
       "summary": "The Wikimedia Foundation files to protect open knowledge in New York Times v OpenAI case Wikimedia Foundation",
+      "image": "",
       "date": "2026-10-30"
     },
     {
@@ -89,6 +99,25 @@
       "source": "Google News — OpenAI",
       "published": "2026-10-30 14:30 IST",
       "summary": "Websites pretending to be local news are boosting Democratic candidates NPR",
+      "image": "",
+      "date": "2026-10-30"
+    },
+    {
+      "title": "Official Claude Code VS Code Extension Compromised to Install Persistent SSH Backdoor - The Hacker News",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPS2hyRVBYNEpLVEQ2V2IwYk9aZmhtUm9veEV5RE4tZVVONXpIM1Y5Q1hxSWprYjFDR1NXNGF2MjlyeUpod2p6NFNydVltcmpudHoxU2wtUWJxSUdrWUhhanRiTUo3ZzdGNXViN0NyRUdTcHFiVEJfT2Z0VklGczNiOGhzYw?oc=5",
+      "source": "Google News — Anthropic",
+      "published": "2026-10-30 14:25 IST",
+      "summary": "Official Claude Code VS Code Extension Compromised to Install Persistent SSH Backdoor The Hacker News",
+      "image": "",
+      "date": "2026-10-30"
+    },
+    {
+      "title": "Researcher Uses Claude AI to Extract Internal Anthropic Binary and Recover Google Cloud Token - CyberSecurityNews",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBIR1F5SlBxMEpEOGgxUC1uNzNfekhwNFRNVlk4QnFTdkdvcU9UOURoNmZpa05fY1M2UWktcWZpcmRiNHVaQ0w2ZlZEX1FfNzJja1U0R2duNGhxaWlsQ2ItM0tvZ21GTEdMSkt3N9IBbEFVX3lxTFBIR1F5SlBxMEpEOGgxUC1uNzNfekhwNFRNVlk4QnFTdkdvcU9UOURoNmZpa05fY1M2UWktcWZpcmRiNHVaQ0w2ZlZEX1FfNzJja1U0R2duNGhxaWlsQ2ItM0tvZ21GTEdMSkt3Nw?oc=5",
+      "source": "Google News — Anthropic",
+      "published": "2026-10-30 14:25 IST",
+      "summary": "Researcher Uses Claude AI to Extract Internal Anthropic Binary and Recover Google Cloud Token CyberSecurityNews",
+      "image": "",
       "date": "2026-10-30"
     },
     {
@@ -97,6 +126,7 @@
       "source": "Google News — OpenAI",
       "published": "2026-10-30 14:19 IST",
       "summary": "The future of the firm OpenAI",
+      "image": "",
       "date": "2026-10-30"
     },
     {
@@ -105,14 +135,7 @@
       "source": "Google News — OpenAI",
       "published": "2026-10-30 14:09 IST",
       "summary": "Foxconn working on a new tie-up with OpenAI, says there is no AI bubble Reuters",
-      "date": "2026-10-30"
-    },
-    {
-      "title": "Researcher Uses Claude AI to Extract Internal Anthropic Binary and Recover Google Cloud Token - CyberSecurityNews",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5jcWQyRF8zUXJqazNBR0xfRzJIbkRWSkNfN09rVVExYzFEX0JZdC1oZnc2dktsTWNzbkJwQmI3eFJmc25YeU1ZeUMxM3M4TGhaYWNEc2lBa3dUbTFOZHhoWEJ3VEktMjDSAWxBVV95cUxQSEdReUpQcTBKRDhoMVAtbjczX3pIcDRUTVZZOEJxU3ZHb3FPVDlEaDZmaWtOX2NTNlFpLXFmaXJkYjR1WkNMNmZWRF9RXzcyY2tVNEdnbjRocWlpbENiLTNLb2dtRkxHTEpLdzc?oc=5",
-      "source": "Google News — Anthropic",
-      "published": "2026-10-30 13:59 IST",
-      "summary": "Researcher Uses Claude AI to Extract Internal Anthropic Binary and Recover Google Cloud Token CyberSecurityNews",
+      "image": "",
       "date": "2026-10-30"
     },
     {
@@ -121,6 +144,7 @@
       "source": "Google News — Google DeepMind",
       "published": "2026-10-30 13:34 IST",
       "summary": "Chevy Vehicles With Google Built-In Get Gemini AI Assistant In Brazil GM Authority",
+      "image": "",
       "date": "2026-10-30"
     },
     {
@@ -129,6 +153,7 @@
       "source": "Google News — Artificial Intelligence",
       "published": "2026-10-30 13:30 IST",
       "summary": "FTC Seeks AI Executives’ Testimony in Consumer Harm Investigation The Presidential Prayer Team",
+      "image": "",
       "date": "2026-10-30"
     },
     {
@@ -137,6 +162,7 @@
       "source": "Google News — Machine Learning",
       "published": "2026-10-30 13:18 IST",
       "summary": "Machine learning reveals when changing shot direction pays off in elite tennis Bioengineer.org",
+      "image": "",
       "date": "2026-10-30"
     },
     {
@@ -145,6 +171,7 @@
       "source": "Google News — Machine Learning",
       "published": "2026-10-30 13:05 IST",
       "summary": "Deep Learning Sharpens GPM Radar Precipitation Classification | Newswise Newswise",
+      "image": "",
       "date": "2026-10-30"
     },
     {
@@ -153,6 +180,7 @@
       "source": "Google News — Machine Learning",
       "published": "2026-10-30 12:52 IST",
       "summary": "Machine Learning Flags Postoperative Clot Risk After Hip Fracture Surgery, but TCM Patterns Add Little Bioengineer.org",
+      "image": "",
       "date": "2026-10-30"
     },
     {
@@ -161,6 +189,16 @@
       "source": "Google News — Google DeepMind",
       "published": "2026-10-30 12:04 IST",
       "summary": "3 ways Google DeepMind is using AI to reshape the food system FoodNavigator.com",
+      "image": "",
+      "date": "2026-10-30"
+    },
+    {
+      "title": "Gemini 4 Carbon arrives as Alphabet stock suffers record fall - R&D World",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB2bHY1Z3AzWmVDRVFFeUlWSDVvdlU0aE9MUlZrd2JScXVRdzBOdnp0T1Y1aVJicDhZdFphNDJKQXVtX0xLaVp3WXRxamNITUk3MkVBMy0wQ3ZLSG82OVRKMlVFUGRmSVBWZV81NF9ZNnN1Ui1mYjQyaTRqZw?oc=5",
+      "source": "Google News — Google DeepMind",
+      "published": "2026-10-30 11:02 IST",
+      "summary": "Gemini 4 Carbon arrives as Alphabet stock suffers record fall R&D World",
+      "image": "",
       "date": "2026-10-30"
     },
     {
@@ -169,6 +207,7 @@
       "source": "Google News — OpenAI",
       "published": "2026-10-30 10:11 IST",
       "summary": "Widow sues OpenAI, blaming ChatGPT for her husband’s death Courthouse News",
+      "image": "",
       "date": "2026-10-30"
     },
     {
@@ -177,6 +216,7 @@
       "source": "Google News — Artificial Intelligence",
       "published": "2026-10-30 10:10 IST",
       "summary": "Artificial intelligence news: AI-powered shoplifting detection expands in Chicago-area stores, but some raise concerns ABC7 Chicago",
+      "image": "",
       "date": "2026-10-30"
     },
     {
@@ -185,6 +225,7 @@
       "source": "Google News — Artificial Intelligence",
       "published": "2026-10-30 09:24 IST",
       "summary": "Generative AI reduces working hours for government staff, survey finds The Japan Times",
+      "image": "",
       "date": "2026-10-30"
     },
     {
@@ -193,22 +234,16 @@
       "source": "Google News — Machine Learning",
       "published": "2026-10-30 09:14 IST",
       "summary": "Identification of ferroptosis-related key genes influencing synovitis development in osteoarthritis based on machine learning Nature",
+      "image": "",
       "date": "2026-10-30"
     },
     {
-      "title": "Meet Claude Duet, the latest AI agent intended to lighten your workload - Mashable",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBsa3ZVM2JtaGdBajhfZEFDWVJaVHlvbkxYcGR5ODFBdjlEeFNON3FfcG0tYzR0aHIyazRjanhUTWRyX1phZ3JLQTNVTmZTMXlBajQ5SmxUZUFVZms5eGxRbVJrZ04xZDYw?oc=5",
-      "source": "Google News — Anthropic",
-      "published": "2026-10-30 08:37 IST",
-      "summary": "Meet Claude Duet, the latest AI agent intended to lighten your workload Mashable",
-      "date": "2026-10-30"
-    },
-    {
-      "title": "Is Google Gemini Free? Google's Free Plan Explained (2026) - Fello AI",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5iREpNUDN0cWl4OUk2RWJuZHU1OUp5RVlQcXhjdmVISUtlb3NwZldETExEZnc5cHJJUm9BOGpxNmFHNjZvckFhVFdJZw?oc=5",
-      "source": "Google News — Google DeepMind",
-      "published": "2026-10-30 07:13 IST",
-      "summary": "Is Google Gemini Free? Google's Free Plan Explained (2026) Fello AI",
+      "title": "Network modeling of science teachers’ perceptions of artificial intelligence integration in science curriculum development - Nature",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBCTjNQZEFRaDhxQmxHMlBhRlZKaWdsWWJ0OHRPT19zTjFER0lYSzJHY2dNemUxYmxkbjdFd0dreU42a1BFbjVneFpGVWRfc1I1UDk0SEMzR1ZiOHlQZTY0?oc=5",
+      "source": "Google News — Artificial Intelligence",
+      "published": "2026-10-30 06:26 IST",
+      "summary": "Network modeling of science teachers’ perceptions of artificial intelligence integration in science curriculum development Nature",
+      "image": "",
       "date": "2026-10-30"
     },
     {
@@ -217,6 +252,7 @@
       "source": "Google News — Machine Learning",
       "published": "2026-10-30 06:05 IST",
       "summary": "Georgia Tech Machine Learning Center Celebrates Student Research at Annual ML@GT Student Conference | Newswise Newswise",
+      "image": "",
       "date": "2026-10-30"
     },
     {
@@ -225,6 +261,7 @@
       "source": "Google News — OpenAI",
       "published": "2026-10-30 05:39 IST",
       "summary": "Lawsuit says ChatGPT persuaded person to stop taking epilepsy meds, leading to her death Mashable",
+      "image": "",
       "date": "2026-10-30"
     },
     {
@@ -233,6 +270,7 @@
       "source": "Google News — Machine Learning",
       "published": "2026-10-30 05:19 IST",
       "summary": "Movie Review: Equisentia: Machine Learning The Independent Critic",
+      "image": "",
       "date": "2026-10-30"
     },
     {
@@ -241,6 +279,7 @@
       "source": "Google News — Machine Learning",
       "published": "2026-10-30 05:10 IST",
       "summary": "Using machine learning to build safer cities Phys.org",
+      "image": "",
       "date": "2026-10-30"
     },
     {
@@ -249,14 +288,25 @@
       "source": "Google News — OpenAI",
       "published": "2026-10-30 05:05 IST",
       "summary": "OpenAI doubles ChatGPT Pro usage limits after backlash over planned 50% cut BleepingComputer",
+      "image": "",
       "date": "2026-10-30"
     },
     {
-      "title": "Dartmouth Convenes Landmark ‘AI at 70’ Conference - Dartmouth",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOV1VYa2RhaFB4WEtMYi1GSVpLV2o0T2tuN0pFanJTcGpaWVhxUnpGVDFOTEpJX0tzMFVWeXFodzdUN0ZXRWdOdm5mMzYyZG9hT0NzMFd6OEVxWnJDRklFRkkwS3ZLMWZyTkZXaEhXOW0zTHFTUEphanFXZlJpNlJNVWtFNnpwUkpkdExWeg?oc=5",
+      "title": "Gemini Pricing 2026: Plans, API & Workspace Cost Guide - Fello AI",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8wVjJONnhJWDF0R0VkeGNaTVRlN01LTmxBVnkzeXl4dk5JeXc3QzU5Q2U3VTYyd1ZlLTdXN3pTZjVFeWxVamJUdkdpUQ?oc=5",
+      "source": "Google News — Google DeepMind",
+      "published": "2026-10-30 04:24 IST",
+      "summary": "Gemini Pricing 2026: Plans, API & Workspace Cost Guide Fello AI",
+      "image": "",
+      "date": "2026-10-30"
+    },
+    {
+      "title": "Billionaire Bill Gates Just Issued a Blunt Warning About Artificial Intelligence - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNFpndUVPM0U5TldDNHZNVS1XNjRpb2dyazNWaTEyUTlCaGhTMm9mMDR1T19JOXdPcWUzQVdMM0tiOVNwRm1JaGhzdFFDMDNjaXFtQTJ0N2lkbWpWaUpjaE9pbTVDSGF6M0RMVXJxOXVDX2t5SUxrS3lUV3dtbFpzbWk3dlFrcDVlZF9vT2I4UGc2cERVdXRxN0FrbmZaaHc?oc=5",
       "source": "Google News — Artificial Intelligence",
-      "published": "2026-10-30 04:48 IST",
-      "summary": "Dartmouth Convenes Landmark ‘AI at 70’ Conference Dartmouth",
+      "published": "2026-10-30 03:50 IST",
+      "summary": "Billionaire Bill Gates Just Issued a Blunt Warning About Artificial Intelligence Yahoo Finance",
+      "image": "",
       "date": "2026-10-30"
     },
     {
@@ -265,6 +315,7 @@
       "source": "Google News — Google DeepMind",
       "published": "2026-10-30 03:36 IST",
       "summary": "Strava adds Google Gemini integration with personalized workout insights 9to5Mac",
+      "image": "",
       "date": "2026-10-30"
     },
     {
@@ -273,6 +324,16 @@
       "source": "Google News — Artificial Intelligence",
       "published": "2026-10-30 03:32 IST",
       "summary": "2 Stocks That Could Quietly Become Big Winners in the Artificial Intelligence (AI) Revolution The Motley Fool",
+      "image": "",
+      "date": "2026-10-30"
+    },
+    {
+      "title": "The AI Singularity: How Artificial Intelligence Could Transform the Economy - The Acquirer's Multiple",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObmNPSXlmSDdYX3NsSVlGajlWT09qZ1BVYmFPRzVEQ0hDbUY2UHNuU1RiLXhQZmtVbWV1cm1NUTI0eU1EbW9mRkp0Qzd6eEZXUkpWM3IzUlBQS1ZTNjZ3SFhMWks5NHZYQWJrU0FCUWlnRW5YLVdUVXlFRm83dkw4ME1lTGNSelZYU25YeE9tdG03QnlJZVBoaEZEalJOd0paU2JHam9HZ09vdkJTSlNINkZmNA?oc=5",
+      "source": "Google News — Artificial Intelligence",
+      "published": "2026-10-30 03:23 IST",
+      "summary": "The AI Singularity: How Artificial Intelligence Could Transform the Economy The Acquirer's Multiple",
+      "image": "",
       "date": "2026-10-30"
     },
     {
@@ -281,14 +342,16 @@
       "source": "Google News — Machine Learning",
       "published": "2026-10-30 02:20 IST",
       "summary": "Machine learning helps track semiconductor defects under more realistic temperature conditions Phys.org",
+      "image": "",
       "date": "2026-10-30"
     },
     {
-      "title": "AI is changing the way we think. The question is whether we’ll notice in time - UN News",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1yX0thOW1UNk9aOUsyWHRLREpnbElzVWxaYm9YZDl1aXJJZ2hDU1RmRWhkQ0RDZER6a1JQNnlYTnktRVhrSkdBSXV6Q0MyLUMzTFNockZ1MA?oc=5",
-      "source": "Google News — Artificial Intelligence",
-      "published": "2026-10-30 02:08 IST",
-      "summary": "AI is changing the way we think. The question is whether we’ll notice in time UN News",
+      "title": "Machine-learning models predict human health from microbiome data - Phys.org",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5aakkxMzBETzlDZEpEUXROS2dHSU8ycG9XdkMxc09nQVpqdXRSd3ZNT0VKeDFtMFdrbGZuLVdla21HUjBaNy14cTA3Y3JHU2dPZjVXY2NrWHgzVEl5WGQ4OURBSzNrN0cwb1VLSmhnbzdsSVNq?oc=5",
+      "source": "Google News — Machine Learning",
+      "published": "2026-10-30 02:20 IST",
+      "summary": "Machine-learning models predict human health from microbiome data Phys.org",
+      "image": "",
       "date": "2026-10-30"
     },
     {
@@ -297,6 +360,7 @@
       "source": "Google News — OpenAI",
       "published": "2026-10-30 01:26 IST",
       "summary": "OpenAI-backed Thrive Holdings acquires ADT TechCrunch",
+      "image": "",
       "date": "2026-10-30"
     },
     {
@@ -305,6 +369,7 @@
       "source": "Google News — OpenAI",
       "published": "2026-10-30 01:24 IST",
       "summary": "Woman Died After ChatGPT Advised Her to Stop Taking Medication, Lawsuit Alleges CNET",
+      "image": "",
       "date": "2026-10-30"
     },
     {
@@ -313,6 +378,7 @@
       "source": "Google News — OpenAI",
       "published": "2026-10-30 00:35 IST",
       "summary": "ChatGPT Ads Reaches $1B - Annualized - In 200 Days 08/31/2026 MediaPost",
+      "image": "",
       "date": "2026-10-30"
     },
     {
@@ -321,14 +387,7 @@
       "source": "Google News — Artificial Intelligence",
       "published": "2026-10-30 00:26 IST",
       "summary": "Schooled by AI: The evolving role of artificial intelligence in medical education Association of Health Care Journalists",
-      "date": "2026-10-30"
-    },
-    {
-      "title": "You can generate and edit Google Docs files directly in Gemini chats now - The Verge",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPaE5LMlNpb2xaUW1sVHVJTTVHTndGenYwVjVBSUNpa0t5MmNrRnE0bVNJUVoxc3FiQ0QzMXViYnRYZi0tN3lhOE02ZEU5QWZsS2p2TjlCbFFJWUF3YXkwQjg5SFd0RDFKUGNrSHNsZjV1TkdsM0g2bkNlbmJ0eGRoWFI3dFI5bUFaeWVVXy1NWHJSTkcwUGUtaENqMllHSHJjcWFJ?oc=5",
-      "source": "Google News — Google DeepMind",
-      "published": "2026-10-30 00:15 IST",
-      "summary": "You can generate and edit Google Docs files directly in Gemini chats now The Verge",
+      "image": "",
       "date": "2026-10-30"
     },
     {
@@ -337,14 +396,7 @@
       "source": "Google News — Machine Learning",
       "published": "2026-10-29 23:44 IST",
       "summary": "Build a repeatable PHP-to-Java migration engine with Kiro Amazon Web Services (AWS)",
-      "date": "2026-10-30"
-    },
-    {
-      "title": "NIH Awards Morgan State $520,000 Grant to Advance Biomedical Artificial Intelligence Research - Morgan State University",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWEViRnNjZG1JUWsxTUdYRG5fRnZQNWl0b1dKRU12V0xNZW5xeGFWMzlmRmliUTAtR3N3YVZPSmtLUG54YkpEcmpHb2xnZGVYd2d4VnJDdU9GdlhYemFYYWl3OVMzd0RlLUhaWmlINXZHVzRuUzlkaFIwSDJ4cXJGdHRLLVp6Wk5HeWNTQUN3?oc=5",
-      "source": "Google News — Artificial Intelligence",
-      "published": "2026-10-29 22:57 IST",
-      "summary": "NIH Awards Morgan State $520,000 Grant to Advance Biomedical Artificial Intelligence Research Morgan State University",
+      "image": "",
       "date": "2026-10-30"
     },
     {
@@ -353,6 +405,7 @@
       "source": "Google News — Google DeepMind",
       "published": "2026-10-29 21:54 IST",
       "summary": "Google admits AI search makes less money, but it’s fixing that with more ads Ars Technica",
+      "image": "",
       "date": "2026-10-30"
     },
     {
@@ -361,6 +414,7 @@
       "source": "Google News — Machine Learning",
       "published": "2026-10-29 20:43 IST",
       "summary": "Unlocking Tensor Core Performance for Machine Learning Interatomic Potentials | NVIDIA Technical Blog NVIDIA Developer",
+      "image": "",
       "date": "2026-10-30"
     },
     {
@@ -369,14 +423,7 @@
       "source": "Google News — Google DeepMind",
       "published": "2026-10-29 19:12 IST",
       "summary": "Google's Gemini 4 Carbon Leads Benchmarks for Finding, Exploiting, and Patching Vulnerabilities The Hacker News",
-      "date": "2026-10-30"
-    },
-    {
-      "title": "Machine Learning Could Help Identify People at Higher Cancer Risk Using Routine Health Data - Cancer Health",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNT2Z1VHBPUW1iUjZHaW9Rbl81aW1yeE1HYS1oX2J0SFNoUUQwSzFiMUlodFFsaXpManJOMUVkOUU4WlQxWmM3VWp4X2FHV2ZBOFhmNThiZTJqZW0xNUZ5SVNtYUEyTWpOUXo3XzMtSlhkaU9EYVgyb3FkQjIzSEFEUW5lZ2NFLWJDOGxHWk1oOE1Ka3o4Y1lXT2tJQ29yblBxU19KdjNfU2NyYmtOR1Y3NEM5N1EyY1FFX0dtRTRaRmNFbmVJZFE?oc=5",
-      "source": "Google News — Machine Learning",
-      "published": "2026-10-29 15:40 IST",
-      "summary": "Machine Learning Could Help Identify People at Higher Cancer Risk Using Routine Health Data Cancer Health",
+      "image": "",
       "date": "2026-10-30"
     },
     {
@@ -649,6 +696,7 @@
       "source": "Google News — Google DeepMind",
       "published": "2026-10-29 02:21 IST",
       "summary": "Google Debuts New AI Models, Genie 4 and Gemini 4 Carbon: What You Need to Know CNET",
+      "image": "",
       "date": "2026-10-30"
     },
     {
@@ -689,6 +737,7 @@
       "source": "Google News — Google DeepMind",
       "published": "2026-10-29 01:03 IST",
       "summary": "Google announces Gemini 4 Carbon, its new frontier AI model Mashable",
+      "image": "",
       "date": "2026-10-30"
     },
     {
@@ -737,6 +786,7 @@
       "source": "Google News — Google DeepMind",
       "published": "2026-10-28 23:42 IST",
       "summary": "Google launches Gemini 4 Carbon AI model with cybersecurity focus Reuters",
+      "image": "",
       "date": "2026-10-30"
     },
     {
