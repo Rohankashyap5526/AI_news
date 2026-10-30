@@ -11,6 +11,8 @@ import sys
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
 from urllib.parse import urlparse
+from urllib.request import Request, urlopen
+from concurrent.futures import ThreadPoolExecutor, as_completed
 
 import feedparser
 
@@ -19,6 +21,8 @@ NEWS_DIR = ROOT / "news"
 IST = timezone(timedelta(hours=5, minutes=30))
 MAX_ITEMS_PER_FEED = 12
 MAX_TOTAL_ITEMS = 50
+IMAGE_LOOKUP_LIMIT = 50
+IMAGE_TIMEOUT = 5
 TIMEOUT_NOTE = "Feeds can occasionally be unavailable or rate-limited. Run the workflow again later if this digest is incomplete."
 
 FEEDS = [
@@ -42,6 +46,63 @@ def safe_url(value: str) -> bool:
         return urlparse(value).scheme in {"http", "https"} and bool(urlparse(value).netloc)
     except ValueError:
         return False
+
+def image_from_entry(entry) -> str:
+    candidates = []
+    for key in ("media_content", "media_thumbnail"):
+        for media in entry.get(key, []) or []:
+            if isinstance(media, dict):
+                candidates.append(media.get("url", ""))
+    for link in entry.get("links", []) or []:
+        if isinstance(link, dict) and str(link.get("type", "")).startswith("image/"):
+            candidates.append(link.get("href", ""))
+    for enclosure in entry.get("enclosures", []) or []:
+        if isinstance(enclosure, dict) and str(enclosure.get("type", "")).startswith("image/"):
+            candidates.append(enclosure.get("href", ""))
+    for value in (entry.get("summary", ""), entry.get("description", "")):
+        match = re.search(r'<img[^>]+src=["\\\']([^"\\\']+)', str(value), re.I)
+        if match:
+            candidates.append(html.unescape(match.group(1)))
+    return next((url for url in candidates if safe_url(url)), "")
+
+
+def article_image(url: str) -> str:
+    """Best-effort extraction of the publisher's actual article image."""
+    if not safe_url(url):
+        return ""
+    try:
+        request = Request(url, headers={"User-Agent": "Mozilla/5.0 (compatible; AIPulseNews/1.0)", "Accept": "text/html"})
+        with urlopen(request, timeout=IMAGE_TIMEOUT) as response:
+            content_type = response.headers.get("Content-Type", "")
+            if "text/html" not in content_type:
+                return ""
+            page = response.read(200000).decode("utf-8", errors="ignore")
+            final_url = response.geturl()
+        patterns = [
+            r'<meta[^>]+property=["\\\']og:image(?::secure_url)?["\\\'][^>]+content=["\\\']([^"\\\']+)',
+            r'<meta[^>]+content=["\\\']([^"\\\']+)["\\\'][^>]+property=["\\\']og:image(?::secure_url)?["\\\']',
+            r'<meta[^>]+name=["\\\']twitter:image["\\\'][^>]+content=["\\\']([^"\\\']+)',
+            r'<meta[^>]+content=["\\\']([^"\\\']+)["\\\'][^>]+name=["\\\']twitter:image["\\\']',
+        ]
+        from urllib.parse import urljoin
+        for pattern in patterns:
+            match = re.search(pattern, page, re.I)
+            if match:
+                image = urljoin(final_url, html.unescape(match.group(1)))
+                if safe_url(image):
+                    return image
+    except Exception:
+        pass
+    return ""
+
+
+def enrich_images(items: list[dict]) -> None:
+    pending = [item for item in items[:IMAGE_LOOKUP_LIMIT] if not item.get("image")]
+    with ThreadPoolExecutor(max_workers=8) as executor:
+        futures = {executor.submit(article_image, item["link"]): item for item in pending}
+        for future in as_completed(futures):
+            futures[future]["image"] = future.result()
+
 
 def entry_date(entry) -> str:
     for field in ("published_parsed", "updated_parsed", "created_parsed"):
@@ -79,6 +140,7 @@ def fetch_items():
                     "source": source,
                     "published": entry_date(entry),
                     "summary": summary,
+                    "image": image_from_entry(entry),
                 })
         except Exception as exc:
             print(f"Warning: could not read {source}: {exc}", file=sys.stderr)
@@ -127,6 +189,7 @@ def main() -> int:
     day = now.strftime("%Y-%m-%d")
     NEWS_DIR.mkdir(parents=True, exist_ok=True)
     items, feed_errors = fetch_items()
+    enrich_images(items)
     output = NEWS_DIR / f"{day}.md"
     if not items:
         print("No articles collected; refusing to publish an empty digest.", file=sys.stderr)
