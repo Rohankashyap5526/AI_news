@@ -45,6 +45,7 @@ jobs:
           else
             git commit -m "chore: update AI news digest"
             git push
+          fi
 
   deploy-site:
     needs: collect-news
@@ -70,4 +71,3 @@ jobs:
       - name: Deploy website
         id: deployment
         uses: actions/deploy-pages@v4
-          fi
