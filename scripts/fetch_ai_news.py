@@ -5,6 +5,7 @@ from __future__ import annotations
 
 import calendar
 import html
+import json
 import re
 import sys
 from datetime import datetime, timezone, timedelta
@@ -127,8 +128,42 @@ def main() -> int:
     NEWS_DIR.mkdir(parents=True, exist_ok=True)
     items, feed_errors = fetch_items()
     output = NEWS_DIR / f"{day}.md"
+    if not items:
+        print("No articles collected; refusing to publish an empty digest.", file=sys.stderr)
+        return 1
+
     output.write_text(build_markdown(day, items, feed_errors), encoding="utf-8")
-    print(f"Wrote {output.relative_to(ROOT)} with {len(items)} articles.")
+    day_payload = {
+        "date": day,
+        "generated_at": datetime.now(IST).isoformat(),
+        "articles": [{**item, "date": day} for item in items],
+        "feed_errors": feed_errors,
+    }
+    (NEWS_DIR / f"{day}.json").write_text(
+        json.dumps(day_payload, ensure_ascii=False, indent=2), encoding="utf-8"
+    )
+
+    archived_articles = []
+    for archive in sorted(NEWS_DIR.glob("*.json")):
+        if archive.name == "index.json":
+            continue
+        try:
+            archived_articles.extend(
+                json.loads(archive.read_text(encoding="utf-8")).get("articles", [])
+            )
+        except (OSError, json.JSONDecodeError) as exc:
+            print(f"Warning: could not read {archive.name}: {exc}", file=sys.stderr)
+    archived_articles.sort(key=lambda item: item.get("published", ""), reverse=True)
+    index_payload = {
+        "generated_at": datetime.now(IST).isoformat(),
+        "latest_date": day,
+        "total_articles": len(archived_articles),
+        "articles": archived_articles,
+    }
+    (NEWS_DIR / "index.json").write_text(
+        json.dumps(index_payload, ensure_ascii=False, indent=2), encoding="utf-8"
+    )
+    print(f"Wrote {output.relative_to(ROOT)} and JSON index with {len(items)} articles.")
     if feed_errors:
         print(f"Feeds unavailable: {', '.join(feed_errors)}")
     return 0
