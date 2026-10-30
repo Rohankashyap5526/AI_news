@@ -1,1 +1,73 @@
-<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#090d18"><meta name="description" content="Latest AI, machine learning and technology news, updated daily."><title>AI Pulse — Daily AI News</title><link rel="preconnect" href="https://fonts.googleapis.com"><link href="https://fonts.googleapis.com/css2?family=DM+Mono&family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet"><link rel="stylesheet" href="styles.css"></head><body><header><a class="brand" href="./"><b>✳</b> AI<span>PULSE</span></a><nav><a href="#latest">Latest</a><a href="#about">About</a></nav><span class="live"><i></i> DAILY BRIEFING</span></header><main><section class="hero"><div><small>✳ &nbsp; YOUR DAILY SIGNAL IN AI</small><h1>The future,<br><em>in the feed.</em></h1><p>Fresh stories from artificial intelligence, machine learning and the technology shaping tomorrow — all in one place.</p><a class="cta" href="#latest">Explore today's briefing ↘</a></div><div class="orb"><div class="ring r1"></div><div class="ring r2"></div><div class="ring r3"></div><strong>AI<span>✳</span></strong></div><div class="hero-foot">INDEPENDENTLY CURATED FROM PUBLIC FEEDS <span id="today"></span></div></section><section class="stats"><div><b id="count">—</b><small>STORIES IN THIS BRIEFING</small></div><div><b id="sources">—</b><small>NEWS SOURCES</small></div><div><b id="updated">—</b><small>LAST UPDATED</small></div></section><section id="latest"><div class="heading"><div><small>✳ &nbsp; THE NEWSROOM</small><h2>Latest <em>stories</em></h2></div><label class="search">⌕ <input id="search" placeholder="Search headlines, topics, sources…"><kbd>/</kbd></label></div><div class="controls"><select id="date"><option value="all">All available dates</option></select><div class="filters"><button class="active" data-cat="All">All stories</button><button data-cat="AI">AI</button><button data-cat="Machine Learning">Machine Learning</button><button data-cat="OpenAI">OpenAI</button><button data-cat="Google">Google / DeepMind</button><button data-cat="Anthropic">Anthropic</button></div></div><p class="result" id="result">Loading stories…</p><div id="featured"></div><div id="grid" class="grid"><div class="loading">Gathering today's AI signals…</div></div><div id="empty" hidden>No stories found. Try clearing your filters.</div></section><section id="about" class="about"><small>01 / ABOUT</small><div><h2>Stay curious.<br><em>Stay ahead.</em></h2><p>AI Pulse turns public news feeds into a simple daily reading list. New headlines are collected automatically every morning at 8:00 AM India time. Every story links to its original publisher.</p><a href="https://github.com/Rohankashyap5526/AI_news" target="_blank">Explore the open-source project ↗</a></div></section></main><footer><a class="brand" href="./"><b>✳</b> AI<span>PULSE</span></a><small>BUILT FOR THE AI-CURIOUS.</small><small>© <span id="year"></span> AI PULSE</small></footer><script src="app.js"></script></body></html>
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#080d18">
+  <meta name="description" content="A smarter, more readable daily briefing on artificial intelligence, machine learning and emerging technology.">
+  <title>AI Pulse — The Daily AI Briefing</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="site-header">
+    <a class="brand" href="./" aria-label="AI Pulse home"><span class="brand-mark">✳</span><span>AI<span class="brand-light">PULSE</span></span></a>
+    <nav aria-label="Main navigation"><a href="#latest">Latest news</a><a href="#topics">Topics</a><a href="#about">About</a></nav>
+    <div class="header-actions"><span class="live"><i></i> LIVE BRIEFING</span><button id="themeToggle" class="icon-button" aria-label="Toggle light and dark theme" title="Toggle theme">☼</button></div>
+  </header>
+
+  <main>
+    <section class="hero">
+      <div class="hero-copy">
+        <div class="eyebrow"><span class="eyebrow-line"></span> YOUR DAILY SIGNAL IN ARTIFICIAL INTELLIGENCE</div>
+        <h1>Understand<br>what's <em>next.</em></h1>
+        <p class="hero-intro">The important AI stories, without the noise. Explore new research, product launches, industry moves and ideas shaping what comes next.</p>
+        <div class="hero-actions"><a class="primary-button" href="#latest">Explore the briefing <span>↘</span></a><span class="updated-note">Updated daily · 8:00 AM IST</span></div>
+      </div>
+      <div class="hero-visual" aria-label="Abstract artificial intelligence network illustration">
+        <div class="visual-glow"></div><div class="orbit orbit-one"></div><div class="orbit orbit-two"></div><div class="orbit orbit-three"></div>
+        <div class="core"><span>AI</span><b>✳</b></div>
+        <span class="visual-label label-top">INTELLIGENCE / 01</span><span class="visual-label label-bottom">SIGNAL OVER NOISE</span>
+      </div>
+      <div class="hero-bottom"><span>INDEPENDENTLY COLLECTED FROM PUBLIC NEWS FEEDS</span><span id="today"></span></div>
+    </section>
+
+    <section class="stats" aria-label="News briefing statistics">
+      <div><strong id="count">—</strong><span>STORIES TRACKED</span></div><div><strong id="sources">—</strong><span>PUBLISHERS & FEEDS</span></div><div><strong id="updated">—</strong><span>LAST REFRESH</span></div><div><strong id="days">—</strong><span>DAYS OF COVERAGE</span></div>
+    </section>
+
+    <section id="latest" class="newsroom">
+      <div class="section-heading">
+        <div><div class="eyebrow"><span class="eyebrow-line"></span> THE NEWSROOM</div><h2>Today's <em>intelligence.</em></h2><p class="section-description">A clear view of the latest developments across the AI ecosystem.</p></div>
+        <label class="search-box"><span>⌕</span><input id="search" type="search" placeholder="Search stories, topics or publishers…" aria-label="Search news"><kbd>/</kbd></label>
+      </div>
+
+      <div id="topics" class="toolbar">
+        <div class="filters" aria-label="Filter by topic">
+          <button class="filter active" data-cat="All">All stories</button><button class="filter" data-cat="AI">Artificial intelligence</button><button class="filter" data-cat="Machine Learning">Machine learning</button><button class="filter" data-cat="OpenAI">OpenAI</button><button class="filter" data-cat="Google">Google / DeepMind</button><button class="filter" data-cat="Anthropic">Anthropic</button>
+        </div>
+        <div class="view-controls"><label class="select-wrap"><span>DATE</span><select id="date" aria-label="Filter by date"><option value="all">All dates</option></select></label><label class="select-wrap"><span>SORT</span><select id="sort" aria-label="Sort stories"><option value="newest">Newest first</option><option value="oldest">Oldest first</option><option value="title">Title A–Z</option></select></label></div>
+      </div>
+
+      <div class="feed-status"><p id="result" aria-live="polite">Loading stories…</p><span class="feed-note">Select a story to visit its original publisher ↗</span></div>
+      <div id="featured"></div>
+      <div id="grid" class="news-grid"><div class="loading">Gathering today's AI signals…</div></div>
+      <div id="empty" class="empty-state" hidden><span>⌕</span><h3>No matching stories</h3><p>Try another keyword or clear your filters.</p></div>
+    </section>
+
+    <section class="reading-note">
+      <div class="note-icon">✳</div><div><span class="eyebrow">A BETTER WAY TO KEEP UP</span><h2>Less scrolling.<br><em>More understanding.</em></h2></div><p>Browse by topic, scan clear summaries and follow every headline back to its original source. AI Pulse brings the daily AI conversation into one focused reading space.</p>
+    </section>
+
+    <section id="about" class="about">
+      <div class="about-label"><span class="eyebrow">01 / ABOUT AI PULSE</span><span class="about-rule"></span></div>
+      <div><h2>Stay curious.<br><em>Stay ahead.</em></h2><p>AI Pulse collects stories from public news feeds and organises them into a daily reading list. New headlines are scheduled to be collected every morning at 8:00 AM India time. We link to original publishers so you can read the full reporting in context.</p><a href="https://github.com/Rohankashyap5526/AI_news" target="_blank" rel="noopener">Explore the open-source project <span>↗</span></a></div>
+    </section>
+  </main>
+
+  <footer><a class="brand" href="./"><span class="brand-mark">✳</span><span>AI<span class="brand-light">PULSE</span></span></a><span class="footer-tag">BUILT FOR THE AI-CURIOUS.</span><span>© <span id="year"></span> AI PULSE</span></footer>
+  <script src="app.js"></script>
+</body>
+</html>
