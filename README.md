@@ -6,6 +6,10 @@
 </p>
 
 <p align="center">
+  <a href="https://rohankashyap5526.github.io/AI_news/"><strong>🌐 View Live Website →</strong></a>
+</p>
+
+<p align="center">
   <img alt="Python" src="https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white">
   <img alt="GitHub Actions" src="https://img.shields.io/badge/Automation-GitHub%20Actions-2088FF?logo=githubactions&logoColor=white">
   <img alt="Frontend" src="https://img.shields.io/badge/Frontend-HTML%20%7C%20CSS%20%7C%20JavaScript-E34F26">
