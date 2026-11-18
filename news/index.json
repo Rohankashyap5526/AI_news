@@ -1,8 +1,440 @@
 {
-  "generated_at": "2026-11-17T16:27:38.055927+05:30",
-  "latest_date": "2026-11-17",
-  "total_articles": 1100,
+  "generated_at": "2026-11-18T15:59:12.333310+05:30",
+  "latest_date": "2026-11-18",
+  "total_articles": 1150,
   "articles": [
+    {
+      "title": "Predicting under-five mortality in Bangladesh through comparative survival analysis using traditional, machine learning, and deep learning models - Nature",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4xaEhzNVFVQVprd0dObWhsd3FCLWtvSjBwUWFac0VzdWVyZFlUMy1peEhiX1kzUjJSdllvRk1NMnRUY0VLZ21KSlVqTUwyRVVXOTdrVlNmcFlsRnhhbE9J?oc=5",
+      "source": "Google News — Machine Learning",
+      "published": "2026-11-18 15:47 IST",
+      "summary": "Predicting under-five mortality in Bangladesh through comparative survival analysis using traditional, machine learning, and deep learning models Nature",
+      "image": "",
+      "date": "2026-11-18"
+    },
+    {
+      "title": "Google is giving millions of Gemini users a free AI agent that actually gets things done - PhoneArena",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQelhGN1VkVUwxbXpDcWpLSWZnbWd2RzZmRmptOGdlZUtENVVDY2YweTE5R0xlT0huRnF2QUVwendoUVFsbUp0RmNpXzc0RDRSTVA0cG9zZDlSRFFtMzd1b2xHejIxR2xfeGJTU2sxLW9yWHJUTUIzaWhoeGVFQk0zck5BeWNQbm15Tm91RjlQREdxcnJpX01QRUNqSmVMZ3dFRG40LXFONFJGdEMwa3ZfWC1mc2ViUmlURVM1M1dkNnUxNUJDT0trMQ?oc=5",
+      "source": "Google News — Google DeepMind",
+      "published": "2026-11-18 15:42 IST",
+      "summary": "Google is giving millions of Gemini users a free AI agent that actually gets things done PhoneArena",
+      "image": "",
+      "date": "2026-11-18"
+    },
+    {
+      "title": "Your data can be exposed without a hack. Here’s how to protect it. - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNXzlhaVhZTXlGd2xLdDFRM0R2aWVFa0xJQTN6WGtsZDFnTGU5WjhSVjRhN3c3Szl0OHZEOGJrUzBKY2dkWW50bndVOG05c21uYW0zSGNXZEx1YWZwT1ZMSFFJaWZMeFhpR0lSZWxNaklDZ1ozY2ZWZ2pWQmJDWWxVd3VaaEluODd0UjdHN0tWTFFieUxJaUtyMDNUTGhwek53SVp4R21uZWhaOGxLZjVNY3NLbExZOUc5VlBRc1UxUU05X0tTQ3VlRXVHaFAyc0tZd1ZIOA?oc=5",
+      "source": "Google News — OpenAI",
+      "published": "2026-11-18 15:34 IST",
+      "summary": "Your data can be exposed without a hack. Here’s how to protect it. The Washington Post",
+      "image": "",
+      "date": "2026-11-18"
+    },
+    {
+      "title": "OpenAI announces new AI safety program; researchers worry it won't be enough - NPR",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOc1d5aEV0bFYyUUtaMjZyV0owZ2s5MmxET0dPUkhDeEZxRks3YUxtQktDZjlpb1ZlWlVBUWIxdm1hQmFjUlNvaWl6ek1ucDMtYl9QSWM0amRRVFQ2V2s2OXp3c1RZZkUwR1VPLV9CaW5MR1J0NkRib1RGZXRDQnpNMm1QSkphdWpEMmxsZTBCV2Q?oc=5",
+      "source": "Google News — OpenAI",
+      "published": "2026-11-18 15:30 IST",
+      "summary": "OpenAI announces new AI safety program; researchers worry it won't be enough NPR",
+      "image": "",
+      "date": "2026-11-18"
+    },
+    {
+      "title": "Machine Learning Outperforms Pharmacokinetic Models Predicting Initial Vancomycin Concentrations in Septic Patients - Bioengineer.org",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQV0xvTlRxZ2txb0N4Qk85dVEzRUZvVERmVXJsb3F6X0NTVUxHWTlsVjBmS2Z6bGg4QUFSYURvZXFUY0Q3QjUyYXpRNGFFS1BuSl9zUk1HaS1VS1VHT2c0a2pVbXF2eEo0RFRQQzZMc2oyNWR2TExXMWhBNFdJOHltc1JLcVl2MkR0Smo5emJzM212THlZUTZ2TDZVZS1jbWZWSm1ESzFYaDVLTmhqZjRETHVyekdhMnlrNjRhaG83R2FPeW5kRUJiMjdoaC1BYnNpU1NEeGZvRQ?oc=5",
+      "source": "Google News — Machine Learning",
+      "published": "2026-11-18 15:25 IST",
+      "summary": "Machine Learning Outperforms Pharmacokinetic Models Predicting Initial Vancomycin Concentrations in Septic Patients Bioengineer.org",
+      "image": "",
+      "date": "2026-11-18"
+    },
+    {
+      "title": "Not Micron. Not Broadcom. This Artificial Intelligence (AI) Stock Will Skyrocket in December After the Latest Sell-Off - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNemc2cFlzcjgybGhtTDFzSGFpaWNZSFJvVGw1bGtEV1I5UjZJSzNfbF9lQXBXT3daYjFFRjNkaG1kT2dnSm1CTmZUZHFGTGkzU251VEoxQWozaFhURDFQekhKU0hlWmJvQ3VtZTlnY0NXZnRIVmI2SWhfemRuMVI5WE0wbHdETHU1MnBZRmp6NFppQUJnSFZvZFNwc2I5MHVreEpJLTRCeF9CRHY4MEUwZGZjN2NSclE4S08wX1J2cVJIam5HTjN1N0VNNVNIcUVxUGV6WkhieUdndF9xZEVTbl9KX3BTZm5aRHV3eEhR?oc=5",
+      "source": "Google News — Artificial Intelligence",
+      "published": "2026-11-18 15:20 IST",
+      "summary": "Not Micron. Not Broadcom. This Artificial Intelligence (AI) Stock Will Skyrocket in December After the Latest Sell-Off The Motley Fool",
+      "image": "",
+      "date": "2026-11-18"
+    },
+    {
+      "title": "Knowledge, Attitudes, and Practices Regarding Artificial Intelligence Among Healthcare Professionals at a North Indian Tertiary Care Teaching Hospital: A Cross-Sectional Survey - Cureus",
+      "link": "https://news.google.com/rss/articles/CBMitwJBVV95cUxNM2d0cHhtcnY5MUxTQUFwLTJIOUZUelphU1pFSXN6TjFCUXJYb2d6UWRVUWh3Y05UZUdwS05hNjdfaWpabWxCcUZXd2k3LUpWa3RhM1Fsb0UwMExWaW9OT3NJZWExdkVWWDliSDM1RnRuQ1d4UEZNMGU2cUZVMExZOUxzem9qbEpiV1dSdm5vYTZKUGFCNGRrbF9xWUo3SUczLUhiNjRxdERtZkxSSmV3TVNqaFpmMTZlYjk1Nk1yZGlLVFV1TVY2ZlZHVnBWVmsxTnVOR25nQzV0OEZCRjdqa1dZZnVheHBKbVotWXlNaXVzYkxQLXM1ZFprczhkcmJHWlB2Q1JTNjlLLU9TNjdzeDJUR3Mza3ZUcEpia2lDZ2xmNWFhbzRmMERQdkNRbWFMQnFyYWtobw?oc=5",
+      "source": "Google News — Artificial Intelligence",
+      "published": "2026-11-18 15:01 IST",
+      "summary": "Knowledge, Attitudes, and Practices Regarding Artificial Intelligence Among Healthcare Professionals at a North Indian Tertiary Care Teaching Hospital: A Cross-Sectional Survey Cureus",
+      "image": "",
+      "date": "2026-11-18"
+    },
+    {
+      "title": "OpenAI launches first phase of embedded assessments with external experts - UC Today",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNaHE0VU50M09QaF9WY0ZkT2FBV2VobTNoemNMQlJXZzVnNW5BSXltME9lLXo5R0dPRU5ZVjJ1UlF5dXBxclRNM3k3R3h4d3dwazNZMkpmV2N2a0Q0NmNZWWFrUm8ydldqc3NINzN1ZUdwdlFfYTVneWgwNG5lOG5wSzBuMndPRGVLWFg4Yl9rRVh4MHpCbS16NlFlVTlSNm9oSE5TMXpGMkdNaW9yb04xTW5fQzRwd0cyRkNtTUhtQ0h4VVg2?oc=5",
+      "source": "Google News — OpenAI",
+      "published": "2026-11-18 15:00 IST",
+      "summary": "OpenAI launches first phase of embedded assessments with external experts UC Today",
+      "image": "",
+      "date": "2026-11-18"
+    },
+    {
+      "title": "A Lifecycle Framework for Artificial Intelligence in Sustainable Construction Research - AZoCleantech",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9IQjNRSi1SYzM3X051Z2w4VFNuSFE5VkpjM3ZjNzNaLWxJOXNSUThqSmpJbkNoN1lqM1VjV2FSejRVcnNyeGNVYi1YQmIyNGEzcDZ5ak84WHVBNTgyUnA3Zw?oc=5",
+      "source": "Google News — Artificial Intelligence",
+      "published": "2026-11-18 14:48 IST",
+      "summary": "A Lifecycle Framework for Artificial Intelligence in Sustainable Construction Research AZoCleantech",
+      "image": "",
+      "date": "2026-11-18"
+    },
+    {
+      "title": "Machine Learning Estimates Multivariate Hepatic Reference Surfaces in Puerto Rican Population - Bioengineer.org",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORDVFZlVYN2JzeGV6Y2w0R0RwRHlkUTJqb0ZWSnBFRlJ2R2UzWm5CdWFuSlFIbmtLS19sZlN5SEdxUlQwbzljU0UyZ0ZGZkEySmNfcnBEdGo3MURZZjFMR2JydGwwOTV2ckVfbjRLYTZ5aVY5cklrc1JDZklNZXhBb3BibXJiS2RLLXJBYnNFcmJCTUtjTXlpeHpudTlhOHY2Y3A0Y2kwVWpVLTg0X29YeXI5a0w1NGhLRVE?oc=5",
+      "source": "Google News — Machine Learning",
+      "published": "2026-11-18 14:45 IST",
+      "summary": "Machine Learning Estimates Multivariate Hepatic Reference Surfaces in Puerto Rican Population Bioengineer.org",
+      "image": "",
+      "date": "2026-11-18"
+    },
+    {
+      "title": "Your agentic AI results can’t be checked. Here’s how to fix that - CIO",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZWpHN0FxTWZaQjdhQWs4MzRxdHF4Wmc5bUVXS1FyanozSmN6eldYRTc2WllLSnZLQXF0czh6d0lKMHdwc1ZTMHJ2dk9reEVhU1VkUXU4ejJINjFrb0ZfcllVdk13RTdwTjJsemZiOGpuUW1HMHNldXpnMmczY2E3VUs3RFBtOXNTaUdaYTV2TlJYVUpac0JyMng5ZDJOOTVMSWk1Vw?oc=5",
+      "source": "Google News — Artificial Intelligence",
+      "published": "2026-11-18 14:33 IST",
+      "summary": "Your agentic AI results can’t be checked. Here’s how to fix that CIO",
+      "image": "",
+      "date": "2026-11-18"
+    },
+    {
+      "title": "VodafoneThree to test Nokia's AI-RAN with Nvidia GPUs - Light Reading",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMWRPbm02SWpwLXN4QlJZMkpTMFRFa0ppT2h3aHFqVzBDVDd2VU54YmVUVUpGZTV4NGhaQ01SZzlwdTBHeVktMlVEc2p4ZXVmQjU2eHZxWG9iOHozWUJ3eWRnRUwzdXBlMGs0aVBuOGpRZ3N0RG5BVGMwQnBxbmVDd3psTzhNcDlJOHdoZlprZUdNZWVVbEhNalpaQlFySTlfZGNQOA?oc=5",
+      "source": "Google News — Machine Learning",
+      "published": "2026-11-18 14:32 IST",
+      "summary": "VodafoneThree to test Nokia's AI-RAN with Nvidia GPUs Light Reading",
+      "image": "",
+      "date": "2026-11-18"
+    },
+    {
+      "title": "Anthropic | History, Controversies, & Claude AI - Britannica",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE41Q1h2QkF0SGRpMFZSMVN5al9RNkhQLTR4MDc0cHJNbndmdndTbHE5cGswRFk4SS1JbVhmXzdWNm5KRDlJa3FiUkt6T01MZUNiTjhON2R6cFJtQQ?oc=5",
+      "source": "Google News — Anthropic",
+      "published": "2026-11-18 14:32 IST",
+      "summary": "Anthropic | History, Controversies, & Claude AI Britannica",
+      "image": "",
+      "date": "2026-11-18"
+    },
+    {
+      "title": "Scoop: Democrats probe DOJ's role in OpenAI copyright fight - Axios",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOTnZ4TXZZNjNtQzhyb2hiS0ZBdEtKS05EeExrdmM2b01XQVlqWEVkRWZVZV9uaTdPbjhwekJuOW1hM0RvaXhpU2o3aFRiNVk5c1czLXZHNmMyZm1NYl9qa1pIVEJHRFBlckJyeHh6Rk1NTDhUY2tOREVHZmw5dzFTeWxIVEFjdw?oc=5",
+      "source": "Google News — OpenAI",
+      "published": "2026-11-18 13:12 IST",
+      "summary": "Scoop: Democrats probe DOJ's role in OpenAI copyright fight Axios",
+      "image": "",
+      "date": "2026-11-18"
+    },
+    {
+      "title": "Machine learning helps explain evolution of fish schools - Technology Org",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdk1yemxwN2gxM0oyZ2tLV3lkUXpMNFlDbEw2QVlkajVPX2l1QnFiYW1OVHJGVUVPcnhsazFPTjJndWRILVctcnBYUm5uMVVLeGRueDZTR0FhdlgyR29rYjVuZWZFWW45ZmU3UzRacUlrMWsxYnVDNFdfeXdSazYtWHZfQ09NN3lrZ3hVVVYxSVR1ZEk4NlhKVGZoSQ?oc=5",
+      "source": "Google News — Machine Learning",
+      "published": "2026-11-18 12:30 IST",
+      "summary": "Machine learning helps explain evolution of fish schools Technology Org",
+      "image": "",
+      "date": "2026-11-18"
+    },
+    {
+      "title": "Gemini 4 Carbon: Benchmarks, Price and Release Date - Fello AI",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBVcWtLNmtLMmtjVjVFUUR3Umo1dnYwSUl6b2FKQ1JzT2RaQWw5OEVlZ2dQVWh5MGllbFptOVI1TnppYnBKMUdhbW84YUw?oc=5",
+      "source": "Google News — Google DeepMind",
+      "published": "2026-11-18 12:29 IST",
+      "summary": "Gemini 4 Carbon: Benchmarks, Price and Release Date Fello AI",
+      "image": "",
+      "date": "2026-11-18"
+    },
+    {
+      "title": "How important are Nvidia and Jensen Huang to the US economy? - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE50Q0hCQWtPOXlJaUtKb3FiNG1MYjZLNUdkTjg3SDRzTnRyNzZNdGZmWXNHMEp3MlZmS2VVWWdDSnVHTGlpV1ZYYnhNTWN6V2tCYlRjZV9ydThjczA?oc=5",
+      "source": "Google News — Artificial Intelligence",
+      "published": "2026-11-18 11:34 IST",
+      "summary": "How important are Nvidia and Jensen Huang to the US economy? BBC",
+      "image": "",
+      "date": "2026-11-18"
+    },
+    {
+      "title": "Google is giving millions of Gemini users a free personal AI agent - Android Police",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVUhLUndVd0NvYUIxRXhXcmhsZ2xNbHVZWE16dDVyN3VlR0FEbndRVGF5OXJjSWxxZGczLVFINlBGZ3o2ZDRFTGx5SzFoRUoxOVBOcnYzMkhrbk9mM1EzR3daVERfVHR2eXU2ZGxlSXJRYWxTNjZLWUdGOTJqM3dKVk9pZkVOWjVGY1JvejN2bzRUdUU?oc=5",
+      "source": "Google News — Google DeepMind",
+      "published": "2026-11-18 10:09 IST",
+      "summary": "Google is giving millions of Gemini users a free personal AI agent Android Police",
+      "image": "",
+      "date": "2026-11-18"
+    },
+    {
+      "title": "Split-and-Scale Latent 3D Representations - Apple Machine Learning Research",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBzYVk5czIwVlhNSHFlVHJzYVIxcnQxem5ycG1EQ2xBSkxzdldidllOMDFVcmdzbmV5QjhkRlVuTUhBeTdqNXRTd3R6bGtiNDJkUW1NMXJ3ZDR1Z2d3TTUwZENtOU94a29TTy1CelMyRlR2dw?oc=5",
+      "source": "Google News — Machine Learning",
+      "published": "2026-11-18 09:33 IST",
+      "summary": "Split-and-Scale Latent 3D Representations Apple Machine Learning Research",
+      "image": "",
+      "date": "2026-11-18"
+    },
+    {
+      "title": "OpenAI site plan approved for Effingham - The Current",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNcXRwaHdoWjZEOW4zb0dyc3VxdUtpd0pDVE03RkRFSFhnYkJVdU5qTUdNTGZmZFZiSU1venFpVkw4dGtxTHNGa1dyai1oWDE0Q3BtOGIyQi1tQTlaeUtBWXFSd3NOWjkyczg5WVZwUkVnTmlucFRGbnNUVzJ4YmFXVUl3?oc=5",
+      "source": "Google News — OpenAI",
+      "published": "2026-11-18 09:31 IST",
+      "summary": "OpenAI site plan approved for Effingham The Current",
+      "image": "",
+      "date": "2026-11-18"
+    },
+    {
+      "title": "OpenAI bugging case defendant Alfozan set for trial in January - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE56c0NnNUN1OWlHQnBycmJySTdOazRkSDZHUnc1bkNyRHI0QTA5QVNxMkRVeEh6Z0Z0SWh5cUZxcGdzelIyck1lWFpCUXZuRmtFeFNYcW9ITzl2bTRjbndPUVZGeG9XM3gtSXZkcHZYbEVHX0xGV0HSAXtBVV95cUxOTnJobWtlR0x6ckhYbFQzNFc3Y1ZKOUpqZHp0eUdTdV92NmM0Q25lSUZQRDJRSW4tdFFyTkxTdW1CaWRPRjNDbzZWVnRQQUJqSzRvYzczX0pDVzBkdUkxWnBvS3kwUnFwcGxjU1BTb29BZHF2bHBqU0tOUGs?oc=5",
+      "source": "Google News — OpenAI",
+      "published": "2026-11-18 06:59 IST",
+      "summary": "OpenAI bugging case defendant Alfozan set for trial in January CNBC",
+      "image": "",
+      "date": "2026-11-18"
+    },
+    {
+      "title": "Machine learning based bottom hole temperature prediction using well log data in the Taranaki Basin New Zealand - Nature",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAzcVdxc1ZsWkdDSEFDRkJWMklCTndrUjdsREpxc0IzalA0NUlIbnFndnQxN0lidmY0ODZNQ09LOUtfZ1dWYTFvRmJYR2JLU2dZdk00NklMdklXN0lUNFNRV0xma20?oc=5",
+      "source": "Google News — Machine Learning",
+      "published": "2026-11-18 06:02 IST",
+      "summary": "Machine learning based bottom hole temperature prediction using well log data in the Taranaki Basin New Zealand Nature",
+      "image": "",
+      "date": "2026-11-18"
+    },
+    {
+      "title": "How machine learning can tackle lead pipe challenges - Phys.org",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1rYVdjTV9rQmdkU0pLdkVIUHBNLWxKWENud2tTQUp1YU5OZ1pibF80UFdhTldLVjJ6dDhuZVlPQ0FBaHR3TXRmRTVwSnFUV2I2U0doMlpCM1U4OUFCLUFRc2xPanM?oc=5",
+      "source": "Google News — Machine Learning",
+      "published": "2026-11-18 05:50 IST",
+      "summary": "How machine learning can tackle lead pipe challenges Phys.org",
+      "image": "",
+      "date": "2026-11-18"
+    },
+    {
+      "title": "Post flu vaccine, the AI-aided field of RNA therapeutics is set to be supercharged - Stanford Medicine",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPYzdNc1p0dEdSTmN6QjlvTG1jblNIdGJKOS0yRHd1MHNDRXd2clo1aGFTUkJYUHl4SjVzZUVlQmpUODhEdGF3dHAzOVZSRUlzTFRzeFNzamtoY2lXTV9OZTBSaUgxVlZaS3d0SmVUU0JlSkl2QTdBaVI0VzBVNTE5RkVHNDNCWktRcjYzN1kwT0xWUQ?oc=5",
+      "source": "Google News — Artificial Intelligence",
+      "published": "2026-11-18 05:01 IST",
+      "summary": "Post flu vaccine, the AI-aided field of RNA therapeutics is set to be supercharged Stanford Medicine",
+      "image": "",
+      "date": "2026-11-18"
+    },
+    {
+      "title": "Nippon Telegraph And Telephone Tests Machine Learning Code - Quantum Zeitgeist",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1uQnU1WnloYThRVGhBTEtIejdNSDRCYXNPQ2FXZjV2c1ltWnhkc2Y4RVVydmo3TTJTSWdETFo3UFpoLXZORGMyYTVJbmRxTktSbm51V1R0b2dMc1pLSzYwb1R2VFlXZTROYVhtMWhSYWRidHNacUN1bDg5QUI?oc=5",
+      "source": "Google News — Machine Learning",
+      "published": "2026-11-18 04:57 IST",
+      "summary": "Nippon Telegraph And Telephone Tests Machine Learning Code Quantum Zeitgeist",
+      "image": "",
+      "date": "2026-11-18"
+    },
+    {
+      "title": "Oregon AG sues OpenAI, claims company knowingly endangers teens - OPB",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMU91cFBCaTN3aGJhX1pIVGhSTDBoLV9FWGwzY3FEQWZSR1FGR1VFSm85ODVsN1JSSUZWUG5WbU4yV2dWdGQ2c2prd2tZeW4xaURyOURuRDhKa0VCUDBUNE1sTGJsQUZWOXhMVkExTXZUMnE4WnIyZl9MREhWU0RFeUJGaG43Wnk3WGFfREVrVU5pRUlHSTVMR0hEZVdtVDFMYVVnUA?oc=5",
+      "source": "Google News — OpenAI",
+      "published": "2026-11-18 04:06 IST",
+      "summary": "Oregon AG sues OpenAI, claims company knowingly endangers teens OPB",
+      "image": "",
+      "date": "2026-11-18"
+    },
+    {
+      "title": "'Essentially unusable': OpenAI launches GPT-6.2 Astra and Sol to negative reception from AI power users - VentureBeat",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOM0p5RXctRUhTQzMxTEdQYnJxaVozUkFlQmJOSEJrQjVfeEdrdDJBcExkcmhEUGpoZTN0dXo3dVhxajVwWlpWdVAyRzNDUTBEdi1rekFrT0l3VlgxMFVic1c1ZG9fTVpaVEh0UzAtOUdGRmtVSDdHdHpHRzRiWGY3QUVndjItemljNG8wZVJrNWo3azFrWTVHQmtWczhTcDdGblJmbjhiOFEyS0pULWNQSG9MVkNLVzhJTjBFaUtGaE16UFA0d1c2YzMtX3Z4Tkdm?oc=5",
+      "source": "Google News — OpenAI",
+      "published": "2026-11-18 04:03 IST",
+      "summary": "'Essentially unusable': OpenAI launches GPT-6.2 Astra and Sol to negative reception from AI power users VentureBeat",
+      "image": "",
+      "date": "2026-11-18"
+    },
+    {
+      "title": "FDA to refer to AI as ‘super intelligence’ going forward - RAPS",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPeU1UYzh0Y1NIdGxsTUo0b0xSTGI3RE1Ick5VeUYybWNSZlpfaVQ0MnV4YmlTQ1REdHRSOFNLMUd3RUhrTzRLTWhiOEJrLS0yQlEwdHl4cmljOTdqenpmWGJXdEFaQmlTU213S0NPaGNUR3lfVXVwX1RJdlRZdXVEU0hrSExDYVUyUFJNd0dKQnh4bjA?oc=5",
+      "source": "Google News — Artificial Intelligence",
+      "published": "2026-11-18 03:32 IST",
+      "summary": "FDA to refer to AI as ‘super intelligence’ going forward RAPS",
+      "image": "",
+      "date": "2026-11-18"
+    },
+    {
+      "title": "Nadler: Stolen (Not Super) Intelligence: Why Congress Must Stop Big AI From Ripping Off Creators - Congressman Jerrold Nadler (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBVdVNnQXRtODJGcWc3Y2xFU0d2ZVZGOTJQV2xacW5LcUhCUDBwd0Uzd2xPQTFzYmE3TzBNTk1tVFR3cWVDOWR6OVM3YjN0Nmd6WU5PZU1NYzZEMEU3MVJiaEtTX3M1NDhQVzBFVmF6R3JiNTdaLWc?oc=5",
+      "source": "Google News — Artificial Intelligence",
+      "published": "2026-11-18 02:53 IST",
+      "summary": "Nadler: Stolen (Not Super) Intelligence: Why Congress Must Stop Big AI From Ripping Off Creators Congressman Jerrold Nadler (.gov)",
+      "image": "",
+      "date": "2026-11-18"
+    },
+    {
+      "title": "Cut generative AI costs: Code for rules, models for judgment - Amazon Web Services (AWS)",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQVg3V1dEQVNwMUFueGFmczVVUzE2RUd4UUtkNWtBakFoMG9ILVhNU1M3WXVZSXNXdlpYRzFfVWx0X3pKX3NuM1RXckowRzktMUpzWHphbUJZWlJXX2ZOTk9JOE44U1hnNDZudU10dVI2UWhQV3hWcHNWVHpTLU4zV2VUZFAyZkFhYS1BWUVET3h4SHpyNW96aXdYVUxpMHZPeXRUMVc5LWM?oc=5",
+      "source": "Google News — Artificial Intelligence",
+      "published": "2026-11-18 02:44 IST",
+      "summary": "Cut generative AI costs: Code for rules, models for judgment Amazon Web Services (AWS)",
+      "image": "",
+      "date": "2026-11-18"
+    },
+    {
+      "title": "GM Hits 1 Billion Hands-Free Miles, Will Drop Google Gemini Into 4 Million Cars - InsideEVs",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPU3V6MEVJXzRIeTVJVGtReHktUU82T1ljVFV0dFFPWlVqZno0MTRjd2RlYi0xRFlTZ0ItWDhuSUFIaEdlV2xqeVlXUjBxNUh2WTNMX2tSd25IZ1ZTa29JUi04cEFtUTlaU0pfRVBoWFgtVGZpYThrVUF5VV9SSmN0UlhtR1BNdzE2UDFGTQ?oc=5",
+      "source": "Google News — Google DeepMind",
+      "published": "2026-11-18 02:04 IST",
+      "summary": "GM Hits 1 Billion Hands-Free Miles, Will Drop Google Gemini Into 4 Million Cars InsideEVs",
+      "image": "",
+      "date": "2026-11-18"
+    },
+    {
+      "title": "Anthropic IPO: how can I buy shares, and is it worth it? - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQeXlrX2MzQU9hakFSTmRJM0RrYTNCYkZBQmNHc3loc3BFdjlrQUNXR2k2aWFwN3dKc1VFNGJ1YUFfc3FLMU1RSzJsc0t3dTNHd2JTZl9uMnYyQ3lEOU1sTHBNNzRiUloyRE1WaEFmMXlCa3VEY3B2dVNNa3o0YlBvX0JXRjFfY25SR1pHc2ZLREFrZzkwZ1lfTXFibzhDZ3hCQXhEUjFZdENGTmVp?oc=5",
+      "source": "Google News — Anthropic",
+      "published": "2026-11-18 01:31 IST",
+      "summary": "Anthropic IPO: how can I buy shares, and is it worth it? The Guardian",
+      "image": "",
+      "date": "2026-11-18"
+    },
+    {
+      "title": "Build full-stack Android apps with Gemini in Google AI Studio - Google for Developers Blog",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOckRKc192RjhrUEFoOXUxTE11eTFBY082ZXZTZGxxdDRlZlp3aXg3R2tmUVJqRWFncjEyd2U2dWwwOTR0dnZ0dUs0Zm0wU1BzX01zMGF6cjdfTmpwbjhISHI1d1BiRTRHLWdmd0FmTGkxTzVKbjJ2TXJWODV1VFhYLS1PdzRZelZZeTJlS3lwNEEwRElIXzZIRjJkUTE?oc=5",
+      "source": "Google News — Google DeepMind",
+      "published": "2026-11-18 01:28 IST",
+      "summary": "Build full-stack Android apps with Gemini in Google AI Studio Google for Developers Blog",
+      "image": "",
+      "date": "2026-11-18"
+    },
+    {
+      "title": "Gemini test proves once again that amoral AI agents will do almost anything if told ‘NEVER give up’ - The Register",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPYnhUWVgzd0ZZa0phMEctbWtGVG9OZ1pWei1DbzJldEJ0ODYwcmJDYnIxM21lWEg0WTBYZkhTRnBrTTlHUE5rVHVIUzUwRkRvQjdGbUZfZkZkVktzaTR3bDc5d09fS2hSZGptR1J1M1IwLW43RkxmOXFoWG52Z0RMU25fN2owMjh1VjJ3QmdLYTlnbDNoUmpFLXpkX1ljQnhpVWJ4QTZGQUxzMHk0bVk5RjV2Z2t6YXBIcjJlVjR1UDlUMjlEOFVLamVnWnh5NjlpV1FibTNicVVwX1JQcmQxaFgxM2NrbXQx?oc=5",
+      "source": "Google News — Google DeepMind",
+      "published": "2026-11-18 01:22 IST",
+      "summary": "Gemini test proves once again that amoral AI agents will do almost anything if told ‘NEVER give up’ The Register",
+      "image": "",
+      "date": "2026-11-18"
+    },
+    {
+      "title": "OpenAI’s New Hacking Model Found Dozens Of Holes In Apple Tech - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZkxUaUhOZUU5NnJYYjliaXI0YlducDdoVW9id2FOMXN3aWxSZGVZMFRDX1RUTlJtU29DV3BjSW1IYjhud0xxbWk1WjUwRllzeVVUbEJqVFowS0cwMzBoWUpqVksyWHpvaFV6Vkp6bzZ2WWE5QjM5SU12MW1SejNOUVQwUEZudnROU2RjeFdyOWxtczNVY3NPQnM3Nm0zZ0FhYm9ZX3VaTGV4dk9mZmtDazUtTzFwQ1pBZWc?oc=5",
+      "source": "Google News — OpenAI",
+      "published": "2026-11-18 00:50 IST",
+      "summary": "OpenAI’s New Hacking Model Found Dozens Of Holes In Apple Tech Forbes",
+      "image": "",
+      "date": "2026-11-18"
+    },
+    {
+      "title": "Google expands access to Gemini Tasks, which can help with calls, purchases - TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPa01kNklOVVFtVHM5aTFrWTB2TXJPX19IckFoYkdxQnNEd3ZoaHVlVmJtNUxGWFZiV09NcHFXNjlYV0doX1F5eWdzMjU1dDRtb21BRlh4TDhXejRoSzlKSHFvZHBNODlkT001UkZvaVAyMHN0NG9VNXlLMV81TXM1dXJtYndUcE9ReGRuR2h3bS1Zenl4d182RjViSWx6Q0RrTUl3V05OQXpDWU5I?oc=5",
+      "source": "Google News — Google DeepMind",
+      "published": "2026-11-18 00:32 IST",
+      "summary": "Google expands access to Gemini Tasks, which can help with calls, purchases TechCrunch",
+      "image": "",
+      "date": "2026-11-18"
+    },
+    {
+      "title": "Anthropic files for IPO, touting AI's ability to \"improve how humans live\" - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBZSlY5T3JkOG5YNHVNTDNhWGV2Q3dnVjdLX29OUWRGSllaT3p3NmFKUlFZdzM4NTJ3SzJKcWJMa1UxS1dHLXRrLVpGN1JhTXBfZ0xEdk5FODZQZzVpTWdBbHlubWlMX2dZQkM4?oc=5",
+      "source": "Google News — Anthropic",
+      "published": "2026-11-18 00:11 IST",
+      "summary": "Anthropic files for IPO, touting AI's ability to \"improve how humans live\" CBS News",
+      "image": "",
+      "date": "2026-11-18"
+    },
+    {
+      "title": "California sues OpenAI over safety concerns after rogue agent hacking - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQczl5QzNGZ2c2UWZ5U0ppNFFua3NXMVM2Y1dFdjNNNU1md3RCRWtjR0VzQVkyclNWbFNtT0VTUEFVZEhCWndwcE5pWllXOFB1UDlGckhTbWRNVHRKTHhLdmctX0lMTGZ6TWFZcnpRaVp5TXlXQWU0NzJhMlY2UG94VFBHYy1YSXRWLUxaX0Z1azAyZ3lYcHN0QnllM1U?oc=5",
+      "source": "Google News — OpenAI",
+      "published": "2026-11-17 23:36 IST",
+      "summary": "California sues OpenAI over safety concerns after rogue agent hacking The Guardian",
+      "image": "",
+      "date": "2026-11-18"
+    },
+    {
+      "title": "Access to Generative AI: Privilege or Right? - Lawfare",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQemJIMWZXc1dMRVdhQXVKMjZvNG1XdkJKdndVNU9qS216dHFhMndyZ091U1U0eGM0RHhzVjlWMC1nMS1SWlhaeW9FN0hvRnltTDJWeDBSRUJCd0FpcUdBUkNCWXdsd3puOFROMUJNMTJVT2p5cUhmUXZCNWNnZ0VHQmxRR2F6Wlk?oc=5",
+      "source": "Google News — Artificial Intelligence",
+      "published": "2026-11-17 23:33 IST",
+      "summary": "Access to Generative AI: Privilege or Right? Lawfare",
+      "image": "",
+      "date": "2026-11-18"
+    },
+    {
+      "title": "Google is making it easier to opt out of Gemini AI model training – here’s how - ZDNET",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQYVB0UndmUUR0cHN4YVhmMnlhb3JYQ2hlN2lWVm0tOUNyZnV3MDR5LThtMWpBTk9UUVVOT2FuWWpMTzhGRzQ3akpvdjVYOWxFZ0R2UjQ4bFlWc3JMYmM2QXg2NXFsWHhvdW1ibzZRUUZidVpEa1M2amt3bUFnOW1hWmZWUQ?oc=5",
+      "source": "Google News — Google DeepMind",
+      "published": "2026-11-17 23:31 IST",
+      "summary": "Google is making it easier to opt out of Gemini AI model training – here’s how ZDNET",
+      "image": "",
+      "date": "2026-11-18"
+    },
+    {
+      "title": "OpenAI upgrades ChatGPT and Codex with new GPT-6.2 Astra and Sol models - 9to5Mac",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORmtXTWpWb3ZFOENEcGNqb3BrWHI3alUyNFJCS0FrNE16cEVLSl9oQmVWTVJLdXJKLTc3RlUyUnJFSmpDcjJjTmdsZ19sUDYxSU1LSnluNGM1NUVZY3dvSF90ZU5QRDQxWWd5THp4ajQ5OGdhVjljSFZnOXd5a0h1R09XdThlS2NlTkM2T2EtYmQ3aXhNWW9pMVhxZnVxLU80SlppcnB3?oc=5",
+      "source": "Google News — OpenAI",
+      "published": "2026-11-17 23:21 IST",
+      "summary": "OpenAI upgrades ChatGPT and Codex with new GPT-6.2 Astra and Sol models 9to5Mac",
+      "image": "",
+      "date": "2026-11-18"
+    },
+    {
+      "title": "Astra for Law leads in legal intelligence - OpenAI",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAxZ1AtdGh5bUdSU1VpTEhQWFVncDNieWRxSkhQUTJVVjhGbl9ycXZTaWs5bGtZUktmUndCRTFtS2pubXJvOE5kY25qQ0s3NlRG?oc=5",
+      "source": "Google News — OpenAI",
+      "published": "2026-11-17 23:19 IST",
+      "summary": "Astra for Law leads in legal intelligence OpenAI",
+      "image": "",
+      "date": "2026-11-18"
+    },
+    {
+      "title": "Google Cloud is a Leader in the 2026 Gartner Magic Quadrant for AI Application Development Platforms - Google Cloud",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcmpONUtPN0dvenNhaEJjRnJJMXBhNU9KSWFnejRkVGNCWV8zMzdSRG9JT3NPT1I5ekN2R0NpNEV3ZjRvMURTM3hwN040TGhOYTJYWnhkdTRTVmUzVm02NHNaNWlpWmFVbnFEUFBkeDJjN1lmcGZtdzdWTWhmSjFOXzMzdGtBYjRHeks4REx1LXBCaDhMWFNvclhGRHkyRmI4MUxtMmVuZkZkaFIwa1BFQUpISWJ6THBLVVE?oc=5",
+      "source": "Google News — Google DeepMind",
+      "published": "2026-11-17 22:41 IST",
+      "summary": "Google Cloud is a Leader in the 2026 Gartner Magic Quadrant for AI Application Development Platforms Google Cloud",
+      "image": "",
+      "date": "2026-11-18"
+    },
+    {
+      "title": "Put Gemini to work for you - blog.google",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUWF2N1A4NTZkR3ZDemlDLUIyYlUwNVY2bmRKeEdCaEluLVg5MUJXWU1BY2VZNjhZdWRSRUZ4ZDNnb0xwWVRabXVuby1CNmJUdFJzNmJnd3RyeGZJUk9EVVFGeFUxb2FxVG42XzhpOGtsYkxnVEpmaFZiYThJaktNMW5SM0ppaFE3MlFIazFacXd1b3ZySHJV?oc=5",
+      "source": "Google News — Google DeepMind",
+      "published": "2026-11-17 22:33 IST",
+      "summary": "Put Gemini to work for you blog.google",
+      "image": "",
+      "date": "2026-11-18"
+    },
+    {
+      "title": "Google makes it easier to use Gemini without training AI on your data - Ars Technica",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQb291c3Q3S0JBZVg5R3FWNzB6UG5zS0hzYWVYUDZKMTJhYmNHR0dUVEc2VlNsVUZJRi1TOHFyNDJ0TGF0cjhWekpuRTlVYzlzNTNQaG9CYUhLUFdhUURPUU0tZVhZT3p6MElldGFlWG02UDFwTU5KSkhUeEtISFdsbzBrbkFkQk8zdVlLRzI1Y0RuMGFsOXd6eXh5Zlg3MGNxTHBnNlhjVGJyeDNXelEybm5pRWlBTDA?oc=5",
+      "source": "Google News — Google DeepMind",
+      "published": "2026-11-17 22:20 IST",
+      "summary": "Google makes it easier to use Gemini without training AI on your data Ars Technica",
+      "image": "",
+      "date": "2026-11-18"
+    },
+    {
+      "title": "Portland Public Schools discusses generative AI use in classrooms - KATU",
+      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPZnBPbEJ3b2ZUVGZIUDk0Mlh2cGtZN2l3clRQSE9RUG10czFmZDd1dndvSU5DYU9vU2VpSE8xQnp2TUZBUlRISWpiR0RHamNsSnZsZkZqcDFIdTJlMEtnUTVCRXMzNTFldzVHb3hKWDZLTWNhRHhPdGhYaGx4Rk92WC16RjBFNlN5X0ZiM1dQYlpVTnlUSG1teXV3VUJ5bDBvdnFSTDE2RWRISGd5ZFFva0N1eUJXSW1rUjhiVk55RFdndFBUd0JlaGUwY1lsUTBCMFg1dWo3US1zZVp5V3dMWVV2dHZIYkFxRTh4ZzN4WE1tNFJrNXBoR3hOQ05TMEVQaXdDZjlWWEw0MkxIWWc?oc=5",
+      "source": "Google News — Artificial Intelligence",
+      "published": "2026-11-17 19:55 IST",
+      "summary": "Portland Public Schools discusses generative AI use in classrooms KATU",
+      "image": "",
+      "date": "2026-11-18"
+    },
+    {
+      "title": "Demis Hassabis’ AI company raises $5 billion, months after he left as Google DeepMind CEO - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTFpzOHFHREVGLWRCYk1xQlppZXlkZTJtQ3dsV3JqNHM3al9SVF82UGtNUk52Y2diUTlXYUt2QWZ1MFRnN3dlbEpLQUdiYWc4aDgtOERaLVJLckgzaUFTOTBtMEo0NUcxckFWSy1yRThTSkx6Z3lfV3dQdFBaU1pBelpncTB1d0nSAYwBQVVfeXFMTUtFN2U2MHg1TlE2aVZSa1pRUTQ1ZUY0blFyV1RKaFJHWWVTQlRTeEh5cG0temdzTmFHR2d4MVZlMXpNQ1l4eHBkRXJwOFd6ZUhQMk9pOUI5cWZFdUE4S3hoSngwNXZxTndONlM1cUgycFZZOUttZzdVc056eXF3Q18xbjBOLTZQX2w4Qy0?oc=5",
+      "source": "Google News — Google DeepMind",
+      "published": "2026-11-17 19:28 IST",
+      "summary": "Demis Hassabis’ AI company raises $5 billion, months after he left as Google DeepMind CEO CNBC",
+      "image": "",
+      "date": "2026-11-18"
+    },
+    {
+      "title": "Artificial intelligence and the economy - Brookings",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMUFreU83TjV0OVNMNWV1aDhMZV9zMFJyczNvdzNQUlQ0NEFkdzdYQ29QSVpfeHl3REhzTUVleXNVWFFfZGdGUzYtUlU5MWY5SHlDMkpUdGZpS3hyYVdxaWVwaWQ3UDZRWGJXajU3RFMyREx5ejV2UnR0aXRYcU9qRg?oc=5",
+      "source": "Google News — Artificial Intelligence",
+      "published": "2026-11-17 19:12 IST",
+      "summary": "Artificial intelligence and the economy Brookings",
+      "image": "",
+      "date": "2026-11-18"
+    },
     {
       "title": "DW News. . With the rapid advancement in AI translation technology, some linguists predict that human interpreters may soon be obsolete. Does that mean learning a foreign language is now a waste of time?. #dwcurrentaffai",
       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOT3ZhaHNHbnpwNS1LOVNEbWJ0Um9QV1BGY20zaFdCNXQyeEh3QW1ZNTN0ZVV0OG5YTkxDWGxXSUo2TlMzM3RYcWRGQ2Y0eG53UjdiR01EY1J5LWQyN3NMck4zeTNNTklFTjhtMVFDVWxTRUlxemdpTUo3RjVua09pRzVhM205ZEF4UHVPZVEyNlZza2FJc2ZkSDl4UmFOWVhmSW0yd0N5WHNDYmczbjIzMkM2bnlJeExvOHlmcUI2Zm15YlNhSWZ1d2ZSRENxRXBpOWM5ZHBYYlBveGZHcnFhMVZ3?oc=5",
@@ -238,6 +670,15 @@
       "date": "2026-11-17"
     },
     {
+      "title": "Learning the language of machine learning - MIT News",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQYTc0ZUxfWW1oZklSWHhsaTNlY3I0V1JtMzNrZ0VEX3luY1gxX3RWN3V4RnZ5M0RSQ01pTGxtS251VndPMEU1eV9ENVFabWQ5ZVVwVEZWYXJkc3FXWENUalVCc201OUdYelA3OV9kT0JlNlFza3ZmM2dKQXl3TzRjY1FsdC1VZnh6Q1E?oc=5",
+      "source": "Google News — Machine Learning",
+      "published": "2026-11-17 10:30 IST",
+      "summary": "Learning the language of machine learning MIT News",
+      "image": "",
+      "date": "2026-11-18"
+    },
+    {
       "title": "PennyLane: Building A Bridge Between Machine Learning And Qubits - Open Source For You",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQb19MdlpRTXMwZ0MwY2JFaU03dWE2T0x4WGlBcG9aNGhXQXhRVGdrd0NYZllTRXFQQzAtM1BpQXlQcHo3eFYwR1VqODNQMUg5U01JWkFjTXgwSXF6dVBkTjRVWTRVSDA3dUNTOGxmTzJncHhoYjRjNkVxTWpSMERjay1TdUVyaGRnRXRJaUQ4NURxeGlOUjJvd3NaLWlNYVFhUWpSaFNR?oc=5",
       "source": "Google News — Machine Learning",
@@ -335,6 +776,15 @@
       "summary": "California sues OpenAI over hacking risks NPR",
       "image": "",
       "date": "2026-11-17"
+    },
+    {
+      "title": "How Duco transforms financial data automation with Amazon Bedrock AgentCore | Amazon Web Services - Amazon Web Services (AWS)",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQYzV1b3pOVFlFNDdtT1M0QWdqSm9WcEhGblBGQ2drUUtaN0t2TWVSUXFNaFZsdkRnN1ZBZTFBeFN6VDhpRTRUVGQ1dkw0N0kyYmpacTh6OGVmb1YzdmM0ck50QkNpRElGa3c1Zk1KTUwzaVlUTG4tc3h1YjFEN0lsTWZ2eWlwdTU3MC1Ja2lBNVhsN1hsR0RzWmdkbHliODBJM2JaSFZJUFJ1X19rUVo0Wm9hbXVLYXBDNWlKeHBDZw?oc=5",
+      "source": "Google News — Machine Learning",
+      "published": "2026-11-17 03:36 IST",
+      "summary": "How Duco transforms financial data automation with Amazon Bedrock AgentCore | Amazon Web Services Amazon Web Services (AWS)",
+      "image": "",
+      "date": "2026-11-18"
     },
     {
       "title": "FBI, Google warn of threat actors using ARTEX, other AI platforms to accelerate cyberattacks - American Hospital Association",
