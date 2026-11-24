@@ -1,8 +1,458 @@
 {
-  "generated_at": "2026-11-23T16:30:27.930745+05:30",
-  "latest_date": "2026-11-23",
-  "total_articles": 1400,
+  "generated_at": "2026-11-24T18:17:14.896796+05:30",
+  "latest_date": "2026-11-24",
+  "total_articles": 1450,
   "articles": [
+    {
+      "title": "The Challenges of Teaching Critical AI Skills - UConn Today",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSDJUbzNMaFV4ZVFhZ0xkZmpxODY2ZEJUcWpUSE9RZ19fdVVpYjVXN24xQVgyMnpNVlFqZU1GRDYzXzhFb3gyUFJaVUZfNTJPYnk3emcyMmJwalBZMGkxU2FBNXdQV2p5cUVYcmZXOEgxeVdOUWExeWVSamVjNWhmcFJuVUE5V3V0X3hENnk2YlN6MVQyQy1Jal9BeXRUVXZCUGF0c3pBQ2huclFU?oc=5",
+      "source": "Google News — Artificial Intelligence",
+      "published": "2026-11-24 17:34 IST",
+      "summary": "The Challenges of Teaching Critical AI Skills UConn Today",
+      "image": "",
+      "date": "2026-11-24"
+    },
+    {
+      "title": "Tech Executives, Investors Confront The AI PR Problem - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORWpfVm9BcmJ5T2tkbUZTZ291S1BNdVcwUGxOV0xwTUdVZlBUSjB5R1dVamhDLUJ1b1U4UHlYYVZZb1JueHVPcGM3WWtBb1hEV3cxbkF5TkFvSEtxZUswT0xWV0pSdDJjQXlHU0NSUzhfQm0wdTZOc0hFaGdkVGRIVUlMempGVG53ZkptcUR1T1VrNEZvMC1GYzhRQkY?oc=5",
+      "source": "Google News — Artificial Intelligence",
+      "published": "2026-11-24 17:32 IST",
+      "summary": "Tech Executives, Investors Confront The AI PR Problem Bloomberg.com",
+      "image": "",
+      "date": "2026-11-24"
+    },
+    {
+      "title": "Nvidia's CEO Jensen Huang is back after a presidential assist. Telcos, take note - Light Reading",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVlZNakRHWVJiR0ZGWHNBcGxTc3B5ZXlYeFExaWMzeHRHazVnX3hNQnVaTjN1UmlLVE9XanBJZXluTjhmLTlMX1U3NzBEUU5NYnI3UUlCU1VKMkgwZ2J5MEVlMGswRGxmOGV1SlBsSWR2ZWFnR2VteE8xR2hfcFhXX1ZCQ0psU081NzZXSXVtaDJlWVplaUJsaXVCRG40U2RWZ2dKWl85Q1ZGZjFMdFhHNDlOV3dlY2ZKTC1feVVCLU9GU2ZLbWc?oc=5",
+      "source": "Google News — Machine Learning",
+      "published": "2026-11-24 17:31 IST",
+      "summary": "Nvidia's CEO Jensen Huang is back after a presidential assist. Telcos, take note Light Reading",
+      "image": "",
+      "date": "2026-11-24"
+    },
+    {
+      "title": "Google Search AI Mode Can Now Read Google Wallet, With Drive Coming Next - Technology Org",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPX3Bpb3BJWGxxaXhnUU9MWDN0NENIYW5sREFsVzNUMHpJR0JKNnpOSFo1cldlR3MzRVRFZ1JLbHpfY2FDd0M1UlliLTdRSFh0ZlVaamFpZ25aV3ltSDFOOXZ0YzNxTmFYaVJCZm5NRWttOVhiODF0QnlhX05vQTk3Nkc3OFJwTjh0WGpIYlRuVmNRSWdGalJLRVJSVW1yVzczNzNSNA?oc=5",
+      "source": "Google News — Google DeepMind",
+      "published": "2026-11-24 17:26 IST",
+      "summary": "Google Search AI Mode Can Now Read Google Wallet, With Drive Coming Next Technology Org",
+      "image": "",
+      "date": "2026-11-24"
+    },
+    {
+      "title": "OpenAI Scales Git for Coding Agents with Pando - infoq.com",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1aZEl1emlmTzJ0QmRJbl8wNGdtM2pvRmE4MkZWYi1EbTdIYmlueWlTUWRQSEFycjQydlVSclZGU3ljU2FCQkpkZXZRbVpqWDc4MzAtWkNiclh2b3JnLUUya21B?oc=5",
+      "source": "Google News — OpenAI",
+      "published": "2026-11-24 17:25 IST",
+      "summary": "OpenAI Scales Git for Coding Agents with Pando infoq.com",
+      "image": "",
+      "date": "2026-11-24"
+    },
+    {
+      "title": "Der Spiegel uses machine learning to identify subscribers most likely to cancel - Editor and Publisher",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOQ0otRjdKLTRUUjItTnI5MXhfNXBlTEdWbVVWa1huWXp5QlJLOWdaRUhLVy1CeG9VakRHSmx6a2dDOWNabFVLNlFqTXNwXzVuMjJwVVdiXzVpQ3BwQ2VMNTNQVVN1cjRKSTNrYmxEVXZJZzgzWFZTTGpJTEtyV0RLeU1kcjdseW50eGRBbjh5Qy1haHNhUndLdEQyeEN6ZFVGRmZUaWJZRnd2dG9VaWZrMl9VcTlvV0NDaHU0Z3ByX1daaWlBZ1dIVA?oc=5",
+      "source": "Google News — Machine Learning",
+      "published": "2026-11-24 17:21 IST",
+      "summary": "Der Spiegel uses machine learning to identify subscribers most likely to cancel Editor and Publisher",
+      "image": "",
+      "date": "2026-11-24"
+    },
+    {
+      "title": "Ontology-Guided Language Models Generate Reliable Software Engineering Datasets for Machine Learning - Bioengineer.org",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWVRkb21ma1VpUzVod204MU9yclNiNE1WWlFHck9UTTVPRmtIRUFJVnZRZFppdGpXSjlpSVI4MTRqUzNxUUlLZjNKQ2lYT0F3R1laQk1rS1RCeGdwNnJ4MUVXZlkxaEY5YU80X2lhaXFXNmx6bVlncmpxczRxdkFVMGRDcW1yUGt2WG1BMVpQc0I4VjM0WmpSZjJMYVp3SXRxN0xhMDRDVXNuZkhEZTFMMHJXWVNaVmxxUFVRQmtiTGlxR1k?oc=5",
+      "source": "Google News — Machine Learning",
+      "published": "2026-11-24 16:56 IST",
+      "summary": "Ontology-Guided Language Models Generate Reliable Software Engineering Datasets for Machine Learning Bioengineer.org",
+      "image": "",
+      "date": "2026-11-24"
+    },
+    {
+      "title": "Anthropic and OpenAI Staff Question Releasing Advanced AI Models - Unite.AI",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTlFYaTBsWEFjdlIwMXlwQ1B4QzJiV1Z0TFFOajhUWTFKUm10WFN2eFZCZ2o0bmFkcDJjd0NaNVF6RndubTY4T21SMEVvX3I5c1lPb2Y4dkZwb1pTRTAyRldjbmJfUTJadFdVZ3J1S09PdEJzdi1Nd3ZNaWd6VVU2OUluVXk5c1hkOFB6TG9WWQ?oc=5",
+      "source": "Google News — OpenAI",
+      "published": "2026-11-24 16:46 IST",
+      "summary": "Anthropic and OpenAI Staff Question Releasing Advanced AI Models Unite.AI",
+      "image": "",
+      "date": "2026-11-24"
+    },
+    {
+      "title": "Google Search changes raise questions about student AI access - Your Valley",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQM1VNY0duR2F6OGRSZ180SVcwd0M3VGZmZDZfa216cFYxMXB2VXZvNmV0RGd1dzk0TzROaXJXSXNWVDR0czFBTGdUbW5UNjhvWXBpQXlQalUxZnk2NFpOaUhDVVhQcElBODVyVFRqTVg4UWpHTEd3VU9MUFFJQXFnaDdGeGtCMEZBNFRvcDF6ZWNVbFozUEZvQWFLdTdFUWl0UUpDSDhB?oc=5",
+      "source": "Google News — Google DeepMind",
+      "published": "2026-11-24 16:45 IST",
+      "summary": "Google Search changes raise questions about student AI access Your Valley",
+      "image": "",
+      "date": "2026-11-24"
+    },
+    {
+      "title": "OpenAI published its AI progress meter to encourage a slowdown. It won’t work - Fast Company",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVGg3bm1nMFE1R3ZaY2tIR2ZnemJYMkVqdlNPZVUtWHdLR2ZkcmNodDlMM1d5a083US1zTFN4TFNNeWkzVWRhYlhQQUtfSURYZ25KS20zODFQWkJ1TTNVTkFVYk9sQ0ZVTndxc25Kd2VaLWhSSU1OcEFYMzU2cW0zS0ozQXpNSXZfTlg0SVVMUWlFQ3lXY3czd3hyMUtfR25IWlN2OXIyNThCOEl3RkpJblln?oc=5",
+      "source": "Google News — OpenAI",
+      "published": "2026-11-24 16:39 IST",
+      "summary": "OpenAI published its AI progress meter to encourage a slowdown. It won’t work Fast Company",
+      "image": "",
+      "date": "2026-11-24"
+    },
+    {
+      "title": "Machine-learning models can detect elevated psychopathy and sadism from reactions to funny pictures - PsyPost",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSWIxdmdCTGdtUWdteGpnN2UzMEhvbVV5TEVfTEFVd2x0Z0kwVnZVMU5iUGwwTUZQWUFHeWdHMVdmVTVrVWgwUlFmZlpPZ3BIaFpyUlg0MWxHcnQ4NDZPQ3d1NEprME42ZVZzU0M0TzZoamUwQ3pYem4xSTNzaklITmtRMGtta3p6VDV5WEdrYkF4bEpxWDhiYVBDUjZyMXd6c1JwU3JlcHRyLXF6QzI3U1lmNWlqdU9ZemswRU1oaVh0Zw?oc=5",
+      "source": "Google News — Machine Learning",
+      "published": "2026-11-24 16:37 IST",
+      "summary": "Machine-learning models can detect elevated psychopathy and sadism from reactions to funny pictures PsyPost",
+      "image": "",
+      "date": "2026-11-24"
+    },
+    {
+      "title": "China leads push for global generative AI governance standards - China Daily Global Edition",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOYVY1bmhoMVBsRjNGdUVtOVFiY05iVTdYTzFRenBzczVpZTV6cHhQNmNnODFMdmFJVWNXVDhGbUplQWxSNGgzS2lOX1BOeDFFYTdySmlXd2VrSG1NREVXVW43WGxOeGZrWEFGMzYtNVZKaTBQM2FWUXBSdHQ0MjViSnlR?oc=5",
+      "source": "Google News — Artificial Intelligence",
+      "published": "2026-11-24 16:24 IST",
+      "summary": "China leads push for global generative AI governance standards China Daily Global Edition",
+      "image": "",
+      "date": "2026-11-24"
+    },
+    {
+      "title": "Plaid Helping Google Bring More Personalized Financial Info to Gemini AI App - Credit Union Daily",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQWNQUFdYVm5NY0hNRnppYzBwSldXMUgzekd1Y2FjSWcwWE1MS004VzJsN2pFUC00TUlNYzNJRVo2SDdpVGpySVdKX2hfWFZwVXVmSFBLUGh4dzh5SnJiSTRLY3hFVlVJR2d6bUhlS09QS0FVUWRZX0EyWEVRbTJaZE5jcjFuOVU0SzZPMzdkT3I1ZEp4ZFVmcEQ1TVJ4NXNFNnc?oc=5",
+      "source": "Google News — Google DeepMind",
+      "published": "2026-11-24 16:21 IST",
+      "summary": "Plaid Helping Google Bring More Personalized Financial Info to Gemini AI App Credit Union Daily",
+      "image": "",
+      "date": "2026-11-24"
+    },
+    {
+      "title": "Google Gemini Can Now Call Your Business, and Customers Are About to Start Using It - Times Square Chronicles",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRU1CeEQ3STV3S0lYUjB3TTdnem40SzN6SFlkZkNfWDJpbnZYc3d3aDBiU291YkhjXzRMVlJBSzhNMkNzbFc4QW94WW1lU2otOTZ4bG41ZGZZdUR3cm94UHNMd2JZSnM5cUVDUDNsTFRBVTFJNHVKY2hpaTlfeW02ZjRfS3l0Z0pfR2hudkc1ZjhtRjlhVlpWdWhDNXNEZU9yUE1ueEZYQzc?oc=5",
+      "source": "Google News — Google DeepMind",
+      "published": "2026-11-24 16:20 IST",
+      "summary": "Google Gemini Can Now Call Your Business, and Customers Are About to Start Using It Times Square Chronicles",
+      "image": "",
+      "date": "2026-11-24"
+    },
+    {
+      "title": "Scoop: Anthropic and OpenAI employees fear unreleased AI models are too unsafe to release - Axios",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWnJmY2hLTWlhTHcwN3pVSEhYOXlYUThYQXJ3RWxobVlPR2lweWpSQUY1NklSLVNVUHI4c0wwdnN3azBiV05wTVV6ZmRMTllRR1dvcmNYdjRheHZDOUNVaTBxUFpuS3BZUVBvZ2tpMlpTSS1oYWZ3SC16RVZEME51a0FB?oc=5",
+      "source": "Google News — OpenAI",
+      "published": "2026-11-24 16:19 IST",
+      "summary": "Scoop: Anthropic and OpenAI employees fear unreleased AI models are too unsafe to release Axios",
+      "image": "",
+      "date": "2026-11-24"
+    },
+    {
+      "title": "Google Search Gains Wallet Access With Drive and Gemini Support Next - The Mac Observer",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRFhfMm5VU1FTdVlFaUQzbGZPR2VpWVEyQzZ5cnIwelNfNTdZRjc2WjltTldHRzZxbzZsTFhuRGphaW9rOGNjNVkyWUdqdHFadFEtcHlJMW8yR2cyejVOekZGRVA5emxYa1Q5RTRQc2FUd2NrMmtraGdHRmpSWUFQVkVnUEloc3dNaGJYSUFzMTVqQ1Y3bWN2dks5NE14WVlqVk92aw?oc=5",
+      "source": "Google News — Google DeepMind",
+      "published": "2026-11-24 16:14 IST",
+      "summary": "Google Search Gains Wallet Access With Drive and Gemini Support Next The Mac Observer",
+      "image": "",
+      "date": "2026-11-24"
+    },
+    {
+      "title": "New Machine-learning Method Outperforms Standard Techniques For Quantum Data - Quantum Zeitgeist",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPclZpbG9aNFRma28taUVSbjc1U1Q4UHRTV0RBT1BHaXhONkVuLUlvZWpGdlU5Wl8yREgtMjhLcGlhUzQ2UHRkQnAxUmY5a2k0aDBQUzA0Uk1iUHljWE1PaU92SG9oMjlHWHhDaGNsaG5salVnTDhadVZPcVZQU2pNS0R3?oc=5",
+      "source": "Google News — Machine Learning",
+      "published": "2026-11-24 16:13 IST",
+      "summary": "New Machine-learning Method Outperforms Standard Techniques For Quantum Data Quantum Zeitgeist",
+      "image": "",
+      "date": "2026-11-24"
+    },
+    {
+      "title": "OpenAI Held Talks With AI Native Law Firm - Artificial Lawyer",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZEVkTi1jc1NiZk9vZVJlRDVjZnliZHpWcUdYNkJvQWZJUkdIMzVLZEQtXzRGTVNTTGhLUWgweXJlV3kwYnI0VklGbFNoMkFzOUx6djNVOEgxY2JWNWhBSjYwd0FmT3Q1RG0wa0xnS1Y0cW1ZOWJrZDZycWNFb2JjZUZsTHZlV3laNVZSTmY3UQ?oc=5",
+      "source": "Google News — OpenAI",
+      "published": "2026-11-24 15:52 IST",
+      "summary": "OpenAI Held Talks With AI Native Law Firm Artificial Lawyer",
+      "image": "",
+      "date": "2026-11-24"
+    },
+    {
+      "title": "The Grid Under Siege: How AI Is Creating New Risks to America’s Energy Infrastructure - GovCon Wire",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQ1Ixc0IzRGZiVmJ4a2JDdlFnT2IyTmRaSFhSVHE3SWpWQU5qYUxfTEdveDN2akc5MkZnYXlha2lMSHFWSkxVcWQ0RnR1bnUwQzU5UU9sNV9nd2ZrN2k5ekh6eVFOQ0tRWndEaGhqS2tueDlkNmVacEdJMzNMS1E1UXJKb1hpc3JCVnBuTG13M3JXc3FIaEltZFZfbDVIang4anFXUFVxRFNzSnZWNUE?oc=5",
+      "source": "Google News — Artificial Intelligence",
+      "published": "2026-11-24 15:49 IST",
+      "summary": "The Grid Under Siege: How AI Is Creating New Risks to America’s Energy Infrastructure GovCon Wire",
+      "image": "",
+      "date": "2026-11-24"
+    },
+    {
+      "title": "Google's AI Mode Is Getting Wallet, Drive, and Gemini App Integrations - PCMag UK",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONGhDb090a2pOdTgwM1lwQm91T1BZRTlucm53SVp6TUhYU0xBbHE2ZUtGMkxYVmxhSUtUb21hQXg2VzM5aEZuTHZ4c0FQcE5qUWR3QU9fY1V5Y3FRM3AyS0xyUjlObElwbjBYWTJ5QVd3dEEzdUlrT2xLSXVSUk5DUVI4RkRpTTRFb3NUeUxzdjJXUVRwcWdFc1dRSVJnbTg?oc=5",
+      "source": "Google News — Google DeepMind",
+      "published": "2026-11-24 15:46 IST",
+      "summary": "Google's AI Mode Is Getting Wallet, Drive, and Gemini App Integrations PCMag UK",
+      "image": "",
+      "date": "2026-11-24"
+    },
+    {
+      "title": "The Guy Accused of Bugging OpenAI Allegedly Captured Possible Trade Secrets - Gizmodo",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUFlxMUk5dzhNUExrdTVOY214SDBRUEN2b0hGWGRDS2d1dW9CQVc5cG5wWkY4RXE5OTdHQXJJVE45V01qcUhOWVJEUVU3d1lFMzEwcVVDVWViRUlkUDRtbUxCTkk2SUQweDI2bm5WdDJsZGVUVDd5cE1jWW5nWHRMc2tnVWN1bzJxTzFTZnd5QQ?oc=5",
+      "source": "Google News — OpenAI",
+      "published": "2026-11-24 15:30 IST",
+      "summary": "The Guy Accused of Bugging OpenAI Allegedly Captured Possible Trade Secrets Gizmodo",
+      "image": "",
+      "date": "2026-11-24"
+    },
+    {
+      "title": "OpenAI & Cisco Shirudo: AI Blocks Exploits Without Downtime - Cyber Magazine",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVkxodjk4UVgxN2tIQXFNTVZHYVlrVXpHaFBNYnNOaEpvNkRWb3FLR01vcjJSVWNRMlVFVGFIQmlPcjNlaG5ob0IzMzRFMEYwYklYZlpXUThpY2xHeHJfWmlOckFDaHZmM0ZDa0c4RHZxNFlsaW54Uy1NTTV1MHJMQlhhUXBDSnYwNk5Yeg?oc=5",
+      "source": "Google News — OpenAI",
+      "published": "2026-11-24 15:28 IST",
+      "summary": "OpenAI & Cisco Shirudo: AI Blocks Exploits Without Downtime Cyber Magazine",
+      "image": "",
+      "date": "2026-11-24"
+    },
+    {
+      "title": "Systematic Review Finds Simple Machine Learning Rivals Complex Models in Software Triage - Bioengineer.org",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdzFfdEhHdHJNM1pqSUZmX1JRbmc4dVR5MkI0dzFfWjdqaUZjSHcybWQ0TTJBb1BZNTRkMUtLSEJyUEJBNWJiUU9kdUtJUGZpc1BZdzF3NEZPeXdvLWtjc2pMTHotZjBCNzZnTzNpTURGNEVHNXlrRGFvQnpkakRSTkp6XzlYTHFXdG02WXZrU1ZBLUh3UnZOUTRFbjhnMzlGT3g0QlM4clEwOVByT01FOC1wcw?oc=5",
+      "source": "Google News — Machine Learning",
+      "published": "2026-11-24 15:22 IST",
+      "summary": "Systematic Review Finds Simple Machine Learning Rivals Complex Models in Software Triage Bioengineer.org",
+      "image": "",
+      "date": "2026-11-24"
+    },
+    {
+      "title": "How artificial intelligence is offering new hope for stroke patients in the Last Frontier - STAT",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOYkVfZVlKWlN6M00wcE1ETkdKVTh2VkcxN2dCQWZueGlkMnM2X2pUdWxMSkdTY09qZmpvd0JncTRfUEhCZld3SUN0NEN6YkR2bVdzVDUtdHdBNjNPQlp3bDhGU0Q1cXlyMGVGeDNyMUFiNGw0WnJja3hiTm5ibzhtZjBFZnUyNjQ2SVpnQklRek83LW8yRXhnZXgzQlA3SmJJTFA0LQ?oc=5",
+      "source": "Google News — Artificial Intelligence",
+      "published": "2026-11-24 15:05 IST",
+      "summary": "How artificial intelligence is offering new hope for stroke patients in the Last Frontier STAT",
+      "image": "",
+      "date": "2026-11-24"
+    },
+    {
+      "title": "Machine Learning Models Enhance Combustion Modeling and Stability Monitoring in Gas Turbines - Bioengineer.org",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWUtNYy1rVXRSZlpzRFdCRkVzOVd1ZXN6ckczUkp3VmNwdHFfVGpPbGZNSklDMzFianh2U3ZNQzhZc2pfQnZfU1p0ZGRvU25EZEg3WHZNMmduYzF5TlRqQy1NQ3lJZDBub0pfRWJjcXBFTDZOWWlENG54ZWJTUWFFY3NyTHp4QWppTy1fWi1MdEsyenU3MTNEbVJ3dTcwWU5yZDNIeXl5TUN3RkRQbHNMVm1ER3dnZThL?oc=5",
+      "source": "Google News — Machine Learning",
+      "published": "2026-11-24 14:31 IST",
+      "summary": "Machine Learning Models Enhance Combustion Modeling and Stability Monitoring in Gas Turbines Bioengineer.org",
+      "image": "",
+      "date": "2026-11-24"
+    },
+    {
+      "title": "Machine Learning Accurately Tracks Ovarian Cancer Progression Using Belgian Health Data - Bioengineer.org",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdTlwMk1vbXVxLW53SHB3WG5YLXJTV2xhblI0SkdKNlMzZU1Ca2RLQzFnS25mdVZ1VW5ramxyekFSVGNwRk1MWXJVVkRieWN5Zk51cUMyVE9rUUR4a0h2Um5zamZpRjV5U0doZmZkM3Y2V0tCckEyd2ppV25rcjczbllhQmF2QkVjLWtHU3RiYWdNMTdNMEhGZllXSW4xcjFUX2Y1S1QwYUpibDBXMmFKUHpB?oc=5",
+      "source": "Google News — Machine Learning",
+      "published": "2026-11-24 14:27 IST",
+      "summary": "Machine Learning Accurately Tracks Ovarian Cancer Progression Using Belgian Health Data Bioengineer.org",
+      "image": "",
+      "date": "2026-11-24"
+    },
+    {
+      "title": "Google Brings Gemini Computer Use to Mac, Expanding Its AI Agent Capabilities - TechRepublic",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5GeHNCMTBicUdHbEU1aXM2cWFwRExVRXVlYnlpVWJiUzR2QVhpMzFnMWItMlZrYU5IQUhpWVppS25qRkxBNWtqOWtPbF83WlBoa3lxQWl0V25lRGhpUjkwR0g5MjBNaGlrdUhJdTc5Y2lVWnhUWVQteG1rbHNZZw?oc=5",
+      "source": "Google News — Google DeepMind",
+      "published": "2026-11-24 13:22 IST",
+      "summary": "Google Brings Gemini Computer Use to Mac, Expanding Its AI Agent Capabilities TechRepublic",
+      "image": "",
+      "date": "2026-11-24"
+    },
+    {
+      "title": "Black Friday Comes to Tech Stocks: 3 Artificial Intelligence (AI) Names I’d Buy on Sale - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQc1NzTDV6Q1R4MHNnYXgzRVZDdmdTX1dIWTNMOFloVFNjUEEycWhCVGJ6TGlVcFd3VVVXamFMdXdrMUh0c09UQjNqUURqQXV0ME15NkpHUjRiQUhlYUlGbUFSOG5JbTJ1Q2ZFU0V5ZWY3YlV1bkxtSmUxb05peWw5RmJ6bmNYWklQUzg4RmpJNmdJMDZLU0VrYmgyaG1xSGJ4eEs3a3BHRU5pT2dkRm9KSzBxMk8yVDFZdWJscHZqcHFMZV8w?oc=5",
+      "source": "Google News — Artificial Intelligence",
+      "published": "2026-11-24 13:04 IST",
+      "summary": "Black Friday Comes to Tech Stocks: 3 Artificial Intelligence (AI) Names I’d Buy on Sale The Motley Fool",
+      "image": "",
+      "date": "2026-11-24"
+    },
+    {
+      "title": "Nvidia Has Incredible News for Artificial Intelligence (AI) Investors. Here Is My Top Stock to Buy Before It Is Too Late - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOR05Ub3hPVmduMjNLeGV3d2c0VDdjVG9fbmF3YnJOLVNnSVNlRU9SWHdWSWk5bjZKYkhlZDJpNlAwZjBfQ19PcUszZFVLelllTE1aM0tWcGhyT2x4Y0ZyRTVBSkdxR2o4ZmtpZXRvS1RYWUtzOEx3aGVQNkxqSk9NUzJURXotSFFqc2xCNGJIQ1FCOWR3Y1k0dmJ1SGMtb3hncTRyX0U4RElfcUZ6SzM0?oc=5",
+      "source": "Google News — Artificial Intelligence",
+      "published": "2026-11-24 12:57 IST",
+      "summary": "Nvidia Has Incredible News for Artificial Intelligence (AI) Investors. Here Is My Top Stock to Buy Before It Is Too Late Yahoo Finance",
+      "image": "",
+      "date": "2026-11-24"
+    },
+    {
+      "title": "Congratulations to Intel AI Global Impact Festival Winners - Intel",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcU9wTk1aajNBOW1yRkllankxbGRaQ0ZWbTV3TVhXdDhobXp4ZVVXNUs5aS1Hdl91V0NBdnlXWGxGMGg4VkxOV2NkWm5YbXI4SlBXb3J2TldJSFNnZXlDOWN0Nm1YYmJRUENyLWJkbW9tN2VVTmtfcmFHYV9WdVB5anVvTUdfZHdPaFZSUWdPeEh2a1psX2pYWmlMcGxxcjNJM08tNlIwcUw3V1pxOW1nUGZtREt0WlZrc3ZKT1hn?oc=5",
+      "source": "Google News — Artificial Intelligence",
+      "published": "2026-11-24 12:14 IST",
+      "summary": "Congratulations to Intel AI Global Impact Festival Winners Intel",
+      "image": "",
+      "date": "2026-11-24"
+    },
+    {
+      "title": "DeepMind AI Agents Cut Fusion Simulation Cost Nearly 12x in Quantum Algorithms, Each Gain Verified - Tech Times",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPNko5UGRnV1k4ZjY5c1RuMnZKVVd4U3h3YUJsMFdsRDVZcHJ0TVRlbElSa3VlczlmbExNSFNNUExfV0t5d1M3WkhUZFVWZENPRFY4OHoxcjhWM09YZmlnaDBDeFZvaEo4ekNEV0o3Y29sdTBST1l2UTRqMm9qTFRsOEZocGhTYU9ud09GczZqX0t4Z2RBTTd3SWlMRC1DYnlMUFVPTmFCb0tINXp2LXEwV010dEdRVUVwVk1kcEJzajMzTFJkcVRnbDNRYXR3T1V4OG01YTJZdkc1VWR1YWVCdTIxWQ?oc=5",
+      "source": "Google News — Google DeepMind",
+      "published": "2026-11-24 12:05 IST",
+      "summary": "DeepMind AI Agents Cut Fusion Simulation Cost Nearly 12x in Quantum Algorithms, Each Gain Verified Tech Times",
+      "image": "",
+      "date": "2026-11-24"
+    },
+    {
+      "title": "Machine Learning Decision Trees Outperform Standard Seismic Codes for Concrete Frames - Bioengineer.org",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQR1FSdldVY3Q2djBRaHUyNHlCSUxFYWt1NGs4bXpldTNITmtYN1ptRGtTZXBxT3JpeG1ycXVfVFdzQUNxT2Z0UVJsT0s1bDlPTno2WU96M01HV2RkR3JJakNBUl9VYV92SUpjYUdnRDAwZnlmSGZYY0gyMFI0Q0s1QTNSaTZkTHNVQ1VUb050STFmUE9xUkVSTVRzbW9EX0xEczBWQVVPX0dDN0N0Wm5F?oc=5",
+      "source": "Google News — Machine Learning",
+      "published": "2026-11-24 11:32 IST",
+      "summary": "Machine Learning Decision Trees Outperform Standard Seismic Codes for Concrete Frames Bioengineer.org",
+      "image": "",
+      "date": "2026-11-24"
+    },
+    {
+      "title": "OpenAI and Cisco Unveil AI-Assisted Linux Security Tool to Block Exploits Before Patching - The Hacker News",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1tY2NQbVFCa0xnV2gyeGZwMUxyZVFBR0tma1ZnbGlFTGxTaW1TdDVHVVItYi15dXh4dmZneWQ2MFBnZ3JpWUh2TTNKekd5NDNtd3k5dVp3WnVtSGwtZnZtaVRTdEZhUmZSQW8xeWFfdkRja3VqRExVNTk5bXpaM2M?oc=5",
+      "source": "Google News — OpenAI",
+      "published": "2026-11-24 11:32 IST",
+      "summary": "OpenAI and Cisco Unveil AI-Assisted Linux Security Tool to Block Exploits Before Patching The Hacker News",
+      "image": "",
+      "date": "2026-11-24"
+    },
+    {
+      "title": "Machine Learning Accurately Approximates Expert Supplier Evaluations Using Contextual Operational Records - Bioengineer.org",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPYTNaT0hFQVlQQTJ2Tk9FZEZOZHpORmYyYWl5djYwQjZ6am1WejZVVWIyRk9LOGxQdjFDMThuUUNmY3hrd0RnLUJ4eGxrRVVuaFpjQ193TEl6R05Ib3VnWGgwa3JETnRSR0hZa1BmNjItejNCYVBDZGJhZUNXUUxVUXczVGtoaWlwb1FvZGRuN1k0cDIySmlTU3pTYkFwc2lGeXNfa3ptNHhEQ1JyNmk3SEhQZkRFbnF3UUhrYWF0LUdJYk5UU1RncHJn?oc=5",
+      "source": "Google News — Machine Learning",
+      "published": "2026-11-24 11:27 IST",
+      "summary": "Machine Learning Accurately Approximates Expert Supplier Evaluations Using Contextual Operational Records Bioengineer.org",
+      "image": "",
+      "date": "2026-11-24"
+    },
+    {
+      "title": "Amazon is buying ChatGPT ads while blocking OpenAI crawlers - Digiday",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMjJiQ3hKcXJtUjcxU255Y3BVMUNPYzlXOXhVb3JDWGVlcHJZc2JJX0JmSzNXaTlvTEstYnZ2bXRBWHdiUEs2a2dxX3h1U3FqdjFoenBISkZ3aUNMN2JPYXNWQVE3ampPWXNheVNPbFZyQ0I2emNNbWRHcUZidDdDN1l4Z0hWZmVHeDZOU0trNnFNY2cx?oc=5",
+      "source": "Google News — OpenAI",
+      "published": "2026-11-24 10:39 IST",
+      "summary": "Amazon is buying ChatGPT ads while blocking OpenAI crawlers Digiday",
+      "image": "",
+      "date": "2026-11-24"
+    },
+    {
+      "title": "Introducing the Amazon Bedrock Trusted Access API with Anthropic’s Enterprise Frontier Safeguards and Enterprise Data Controls | Amazon Web Services - Amazon Web Services",
+      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNQ2ZUZUdmUDl2ejhwaEtRQm5xU0s3bGlZV3ZVS3pVUjlxS3duVWdzWXVyU0dWXy1MMW1jYjBZWjNpTTlXR2xuMXdNRWp2Q0dvSldtTWdWSFNlVm9IUG1oUGZnVFE4eDVtUlNPUHR5cFJ3Q3lGandOM1owSkdfRVdMUGdwSTNHVWswamNaRFZvOThvZS02cVR5VVE5QVBIMVNaSWgtZ0V4ZXdMSVRwSW8tMXh6MnNWc0lhdTVRbmFDZTdrQ3Jrb09XTVZBM2plbkowdzIxZU9qaG0wazVZS0s4WDlReTNOU20zYnBtdHZMODVtQm9qQk8zMHdlSWVYUnlwUnc?oc=5",
+      "source": "Google News — Machine Learning",
+      "published": "2026-11-24 10:31 IST",
+      "summary": "Introducing the Amazon Bedrock Trusted Access API with Anthropic’s Enterprise Frontier Safeguards and Enterprise Data Controls | Amazon Web Services Amazon Web Services",
+      "image": "",
+      "date": "2026-11-24"
+    },
+    {
+      "title": "World AI Cooperation Organization: A Timeline | Blogs | Nov 23, 2026 - Information Technology and Innovation Foundation",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE02dlE5YUdzbGF2eHd4SUZzWjV1M0oyLVBTTFlxakdvT1M4ZkxuWFBjUGFMLUF5eDVrTWl6ZmZFNG1nbDJUSXNLQkdTbTN3blU5T0d6R2ctVDBNY1BZRzF2Y3ZsUzNpZkU?oc=5",
+      "source": "Google News — Artificial Intelligence",
+      "published": "2026-11-24 09:39 IST",
+      "summary": "World AI Cooperation Organization: A Timeline | Blogs | Nov 23, 2026 Information Technology and Innovation Foundation",
+      "image": "",
+      "date": "2026-11-24"
+    },
+    {
+      "title": "OpenAI Engineer Secretly Recorded Dozens of Meetings, Prosecutors Say - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZGUweWw4Y2NIQUtVYmdIUHFaQkt6Y3cxZnBHVFBueFpuMjJxaDZCZEZLQS02TnZZX3pzcEUxLWM2N0tQQ0ZSQ1VxTlJ2RWoyLTdvWnJzaTFIa0xTektOMVQzWkdXZ1BGYzJGcGR5MGR5U1NjaUc1b1ZxNmZMUEpVRUdGbWdTTk9sbVNtZg?oc=5",
+      "source": "Google News — OpenAI",
+      "published": "2026-11-24 07:06 IST",
+      "summary": "OpenAI Engineer Secretly Recorded Dozens of Meetings, Prosecutors Say The New York Times",
+      "image": "",
+      "date": "2026-11-24"
+    },
+    {
+      "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes - TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPOUdkSUFqUUdSaDIwclBOdjhNS2ltR3hsOW4tQTlMTzAzVjVrazZLN3J1eWJsYm02NDBOcUFlLXdoRV9CY3F2OHdwb215cm5mamdRZTBBS19keDhieXZiQ080SnJlTFVsNEpjNkEzMlBjOUhTSHNHTzZwNHJiYTBzSnpDemUwdFNxTXNDRHB3VEs5cnhIUTJpZ1FMd3Z1OTBXRG00Q0dlSmlqUW53eEd2dDJKaVJlRDVQdXFB?oc=5",
+      "source": "Google News — Anthropic",
+      "published": "2026-11-24 03:35 IST",
+      "summary": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes TechCrunch",
+      "image": "",
+      "date": "2026-11-24"
+    },
+    {
+      "title": "OpenAI Will Pay You Up to $8K to Preach the AI Gospel to Small Businesses - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNLVRYYW42a3Ztd0h5eF8zQnhqSXFWVTRLeUlTWlk5SUowM2QybmlpQmlpU00yMHZMRGphcU84QXNjRzdMa1FvVXczLVJ0Y3Y1N1dqakhiOFFLdVZsTUFwTERSR2VfZzFGTHFuRFB6eTZPUzd5NDRwd0pqQ3g0LW15UFlBSDE5RFRybGJCSkhxaUp3UQ?oc=5",
+      "source": "Google News — OpenAI",
+      "published": "2026-11-24 03:16 IST",
+      "summary": "OpenAI Will Pay You Up to $8K to Preach the AI Gospel to Small Businesses Yahoo Finance",
+      "image": "",
+      "date": "2026-11-24"
+    },
+    {
+      "title": "OpenAI and Cisco introduce Shirudo - OpenAI",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1lbHE3NTF3ZWJRR0tZOFo1MlRjVEVoYjNKaDdWSFVuYnpQQTZ0YTVnMC1nQm04dWZYWkp5TmRVeEg2V2FWZmROOFljV295eWxLMlZUaTh2Z3Y?oc=5",
+      "source": "Google News — OpenAI",
+      "published": "2026-11-24 02:54 IST",
+      "summary": "OpenAI and Cisco introduce Shirudo OpenAI",
+      "image": "",
+      "date": "2026-11-24"
+    },
+    {
+      "title": "Gemini 4 Carbon is now available in Google Antigravity for AI Pro - 9to5Google",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE82OGFkWXdyZHZITy1wbXdJTTJvdTFxX2xkMUdlTWtFeWZBSjNwUW54ZXAwcUhsYWJPYlZfbUZzOWdlWGEtZnpyRTROOGdPR2tJcVZ1b083c3FMVW9zRFk0T3Q4ekt3VnpRRU50bHdqNA?oc=5",
+      "source": "Google News — Google DeepMind",
+      "published": "2026-11-24 02:46 IST",
+      "summary": "Gemini 4 Carbon is now available in Google Antigravity for AI Pro 9to5Google",
+      "image": "",
+      "date": "2026-11-24"
+    },
+    {
+      "title": "Working with AI - Anthropic",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5QQWdUV21Fa2dHR25yU2RLd3Exd0ZQc3RERzMyZFBtWWhxS0NQZjlWR21rWXZqa3FYbmRlZEhPRGhXb19XR3UtTWd3YTdDR3JwM05VTzZoaW82UDdGQWNF?oc=5",
+      "source": "Google News — Anthropic",
+      "published": "2026-11-24 02:42 IST",
+      "summary": "Working with AI Anthropic",
+      "image": "",
+      "date": "2026-11-24"
+    },
+    {
+      "title": "Inside the Black Market for America’s Artificial Intelligence - Lawfare",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQWVHLWI2RnpUOEpLdGVnTkRidUdXUmVZMHJmaTk5QmM0c2E1U0FWNjZzTnRfVWtxcDA1V1EyTjNjUi1oTjV0YUpBVWFBaVNiY0YzR2szN2hubkgyUzJwQk9hTVdoSm5zRTZtZzY2S2ZRLWc5dWNJSUxiQkpIWXpuRXlNZnZQNS1LbF8xalVWUEJidlFsYTFMYnNLMXVLSUU?oc=5",
+      "source": "Google News — Artificial Intelligence",
+      "published": "2026-11-24 00:39 IST",
+      "summary": "Inside the Black Market for America’s Artificial Intelligence Lawfare",
+      "image": "",
+      "date": "2026-11-24"
+    },
+    {
+      "title": "Faith in the Age of AI: How Religious Americans Are Using Artificial Intelligence - PRRI",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBxVldZNnVrUnVCMzdmajh3NWpLblcwcFAzVDhQdmVha3pYcENyWWNHQ1pWWGFSbnJpMlZ4QndHbFR0ZWl0YWsxYWNIMl83RXpLX1c4SGNidWtWSnRUVm53MzZIa2laQUlPQmVzRGN2NUdVSkk?oc=5",
+      "source": "Google News — Artificial Intelligence",
+      "published": "2026-11-24 00:16 IST",
+      "summary": "Faith in the Age of AI: How Religious Americans Are Using Artificial Intelligence PRRI",
+      "image": "",
+      "date": "2026-11-24"
+    },
+    {
+      "title": "Google's Gemini Spark is now available to more users - Mashable",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5NYXRqbnMxZGRNMXdjZTFyYm9qNkZyVXp1QlZtRXhiaXBuYVUtd00tRHprTnNQaFBhZlZWaHB3d3BpU2M3ZHE1aVZYSjJrM2c2TWlYT0JqT1Q?oc=5",
+      "source": "Google News — Google DeepMind",
+      "published": "2026-11-23 23:15 IST",
+      "summary": "Google's Gemini Spark is now available to more users Mashable",
+      "image": "",
+      "date": "2026-11-24"
+    },
+    {
+      "title": "UN chief urges talks on global AI safety framework, warns of historic shift in power - UN News",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBLOUE0WFFXblpadU5iSEdheDJ5MlF1V1JNa2k0YzRVSVFXZ2o4S0FSNmt6LTh6d1dPTmhTTzNOZGMtQWpSNjZudldCLW5tN2dIX0lGYnNQcw?oc=5",
+      "source": "Google News — Artificial Intelligence",
+      "published": "2026-11-23 23:06 IST",
+      "summary": "UN chief urges talks on global AI safety framework, warns of historic shift in power UN News",
+      "image": "",
+      "date": "2026-11-24"
+    },
+    {
+      "title": "Finding faster quantum algorithms with agents and formal verification - Google DeepMind",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMHgtLVdkZ2RMbU9jQTdrTS1ZeVpJaTBSTERLM2RObThRYmRtQW9kNW8ycUxLX3ozSXJDcTM5cHdsMjNYME5hWmM4anJUREVMMG9ndzQwdlVWVS1DdVhHcnZqclBQUDNoNmtmeEYwbWxqdlB0ZkpVMWVXUnpEb0oxcHJFUTd2bzcwd1phVWtPRzRiSEFmWFdNNzBsSmNYWVlX?oc=5",
+      "source": "Google News — Google DeepMind",
+      "published": "2026-11-23 22:30 IST",
+      "summary": "Finding faster quantum algorithms with agents and formal verification Google DeepMind",
+      "image": "",
+      "date": "2026-11-24"
+    },
+    {
+      "title": "AI Pulse Check: Machine Learning Boosts Yield 12% - PharmTech.com",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNODBFMl9mM0Jsa0Rxa1JRQU04MzBBc2QzWlAzS0RlcWYxV0FlWmJxSmFIMTNydzBxb1pkTWM1SmdHVTV4N1BFenBOUHB5Q3h4SzJVaTVSRUl2c0ViZXZnVVRyc1BFQlNsZVNPYlNEdzZ1YkhQLVBnbE1pY2c5RThrSnVzeTE?oc=5",
+      "source": "Google News — Machine Learning",
+      "published": "2026-11-23 21:29 IST",
+      "summary": "AI Pulse Check: Machine Learning Boosts Yield 12% PharmTech.com",
+      "image": "",
+      "date": "2026-11-24"
+    },
+    {
+      "title": "I still can't use Google's best Gemini model on my $20 AI Pro plan - Android Police",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQd3NuYjk4c1gzakFBdlIzT1NKa0ltN3lsYUV0QmpqRUo5anlqeE9LcEdFTjI5WUJqWlNYc21WQ1AzNFY5Nk5sX3Q5bzJFVVdkMXo1YjJfSURod1ZObkVFMnRmV1VIdHF6S09MbDhadF9jbDM3TUNHdW9hWEFJMk8xT2JUTkZKWHg5WjQ2Uld3?oc=5",
+      "source": "Google News — Google DeepMind",
+      "published": "2026-11-23 19:15 IST",
+      "summary": "I still can't use Google's best Gemini model on my $20 AI Pro plan Android Police",
+      "image": "",
+      "date": "2026-11-24"
+    },
     {
       "title": "Nanoscale Electrochemical Sensors and Machine Learning Advance Real-Time Brain Chemistry Tracking - Bioengineer.org",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMG1tOFlONjFiUi1HTmxCSkY3a3dnTkRwRkd2MS1iMjMwUWdCMVdZZmhBY1JYc2Jja1ZKRnJRQWpacmUxTkZBQzRSMUpBU3JjYlRnT1NzVVBwSWJ0TmdDR1VxSmZnclVNY3dlUWc0cElHb1RzUmxIdmpIdGdsZko1NVl3S2hrV1JkS2REV0tsaXMwYUtEUWRpc0ttaGRJYXhzcFBqZzhnV1Z3cW0wek9ia3BEc0xTUVY4WTRPc1FsTQ?oc=5",
